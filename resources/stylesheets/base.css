@@ -47,9 +47,10 @@ nav.mainnav li:not(:last-child) a{border-right:1px solid rgba(255,255,255,0.5)}
 
 .textbox {
   padding: 18px;
-  height: 80px;
+  padding-top: 12px;
+  height: 96px;
   position: absolute;
-  top: 172px;
+  top: 162px;
   left: 8px;
   width: 244px;
   background: rgba(50, 50, 50, 0.6);
