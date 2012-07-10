@@ -57,20 +57,32 @@
 	<div class="container" id="lower">
 		<div class="row">
 			<div class="span8">
+				<h1>A Simple Query...</h1>
 
-				<p>And this is some kind of paragraph under the subtitle. Yay.</p>
-				<p>And this is some kind of paragraph under the subtitle. Yay.</p>
-				<p>And this is some kind of paragraph under the subtitle. Yay.</p>
-				<p>And this is some kind of paragraph under the subtitle. Yay.</p>
-				<p>And this is some kind of paragraph under the subtitle. Yay.</p>
-				<p>And this is some kind of paragraph under the subtitle. Yay.</p>
-				<p>And this is some kind of paragraph under the subtitle. Yay.</p>
-				<p>And this is some kind of paragraph under the subtitle. Yay.</p>			
-				<p>And this is some kind of paragraph under the subtitle. Yay.</p>
+<pre class="prettyprint lang-scala linenums">
+@table("COFFEES") case class Coffee(
+  @column("COF_NAME")  name:  String,
+  @column("SUP_ID") supID: Int,
+  @column("PRICE") price: Double
+)
+
+val backend = SlickBackend(MySqlBackend("dsn://..."))
+val coffees = Queryable[Coffee](backend)
+coffees ++= List(
+  Coffee("Colombian", 101, 7.99),
+  Coffee("Colombian_Decaf", 101, 8.99),
+  Coffee("French_Roast_Decaf", 49, 9.99)
+)
+val l = for {
+	c &lt;- coffees if c.supID == 101
+} yield (c.name, c.price)
+
+l.foreach { case (n, p) => println(n + ": " + p) }
+</pre>	       
 
 			</div>
 			<div class="span4">
-				This is the right column.
+				<h1>News</h1>
 			</div>
 		</div>
 	</div>
