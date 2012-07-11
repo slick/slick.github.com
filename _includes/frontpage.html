@@ -53,39 +53,55 @@
 </div>
 
 <!-- Secondary Container -->
-<div class="secondary">
-	<div class="container" id="lower">
-		<div class="row">
-			<div class="span8">
-				<img src="{{ site.baseurl }}/resources/images/simple-query.png">
+<div class="wrapper">
+	<div class="secondary">
+		<div class="container" id="lower">
+			<div class="row">
+				<div class="span8">
+					<img src="{{ site.baseurl }}/resources/images/simple-query.png">
 
-<pre class="prettyprint lang-scala linenums" style="width: 580px;">
-@table("COFFEES") case class Coffee(
-  @column("COF_NAME")  name:  String,
-  @column("SUP_ID") supID: Int,
-  @column("PRICE") price: Double
-)
+	<pre class="prettyprint lang-scala linenums" style="width: 580px;">
+	@table("COFFEES") case class Coffee(
+	  @column("COF_NAME")  name:  String,
+	  @column("SUP_ID") supID: Int,
+	  @column("PRICE") price: Double
+	)
 
-val backend = SlickBackend(MySqlBackend("dsn://..."))
-val coffees = Queryable[Coffee](backend)
-coffees ++= List(
-  Coffee("Colombian", 101, 7.99),
-  Coffee("Colombian_Decaf", 101, 8.99),
-  Coffee("French_Roast_Decaf", 49, 9.99)
-)
-val l = for {
-  c &lt;- coffees if c.supID == 101
-} yield (c.name, c.price)
+	val backend = SlickBackend(MySqlBackend("dsn://..."))
+	val coffees = Queryable[Coffee](backend)
+	coffees ++= List(
+	  Coffee("Colombian", 101, 7.99),
+	  Coffee("Colombian_Decaf", 101, 8.99),
+	  Coffee("French_Roast_Decaf", 49, 9.99)
+	)
+	val l = for {
+	  c &lt;- coffees if c.supID == 101
+	} yield (c.name, c.price)
 
-l.foreach { case (n, p) => println(n + ": " + p) }
-</pre>	       
+	l.foreach { case (n, p) => println(n + ": " + p) }
+	</pre>	       
 
-			</div>
-			<div class="span4">
-				<img src="{{ site.baseurl }}/resources/images/news.png">
+				</div>
+				<div class="span4">
+					<img src="{{ site.baseurl }}/resources/images/news.png">
+					<p>Some news items here</p>
+					<img src="{{ site.baseurl }}/resources/images/about.png">
+				</div>
 			</div>
 		</div>
 	</div>
 </div>
 
 <!-- Footer -->
+<div class="footerbar">
+	<div class="container">
+		<div class="row">
+			<div class="span12">
+				<div class="footerbar-copyright">
+					Copyright &copy; 2012 <a href="http://www.epfsfsl.ch">EPFL</a> and <a href="http://typesafe.com">Typesafe, Inc.</a>					
+				</div>
+				<img src="{{ site.baseurl }}/resources/images/slick-logo-sm.png"/>
+			</div>
+		</div>
+	</div>
+</div>
