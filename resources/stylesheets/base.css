@@ -46,6 +46,7 @@ div#toc ul ul ul { list-style: square; }
 div#toc ul li ul li { padding-bottom: 0px; line-height: 18px; font-weight: normal; }
 div#scroller-anchor { width: inherit; }
 div#scroller { width: inherit; }
+div#scroller p { font-family: "Lato", sans-serif; color: #505050; text-transform: uppercase; margin-top: 16px; margin-bottom: 8px; font-weight: bold; line-height: 27px; font-size: 18px; }
 
 .frontpage-nav li { display: inline; list-style-type: none; }
 
