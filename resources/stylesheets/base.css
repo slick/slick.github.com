@@ -21,6 +21,15 @@ a:visited { color: rgba(149,73,87,1); }
 .secondary h1 a:hover { color: rgba(0,0,0,0.4); text-decoration: none; }
 .secondary h1 a:visited { color: #656565; }
 
+.main-content { padding-top: 30px; background: white; font-size: 14px; line-height: 18px; color: rgba(0,0,0,0.65); }
+.main-content p { font-size: 14px; line-height: 18px; color: rgba(0,0,0,0.65);}
+.main-content h1 { font-family: "Lato", sans-serif; color: rgba(218,56,48,0.9); margin-top: 24px; margin-bottom: 12px; }
+.main-content h1:first-of-type { margin-top: 0px; }
+.main-content h2 { font-family: "Lato", sans-serif; color: rgba(249,141,51,0.9); margin-top: 18px; margin-bottom: 10px; }
+.main-content h3 { font-family: "Lato", sans-serif; color: #505050; text-transform: uppercase; margin-top: 16px; margin-bottom: 8px; }
+.main-content h4 { text-transform: uppercase; margin-top: 12px; margin-bottom: 6px; }
+.main-content h5 { margin-top: 10px; margin-bottom: 4px; }
+
 .news-item { margin-bottom: 14px; font-size: 13px; }
 .news-date { display: inline; font-family: 'Lato', sans-serif; font-size: 14px; font-weight: 500; line-height: 16px; color: rgba(249,141,51,0.9); }
 .news-title { font-family: 'Lato', sans-serif; font-size: 20px; font-weight: bolder; line-height: 20px; margin-bottom: 4px;}
@@ -33,7 +42,7 @@ nav.mainnav{margin:20px 15px 0 0;float:right}
 nav.mainnav li{float:left;height:58px;background:rgba(255,255,255,0.75);-webkit-transition:background .2s linear;-moz-transition:background .2s linear;-o-transition:background .2s linear;transition:background .2s linear;border-top:1px solid transparent;border-bottom:1px solid transparent}
 nav.mainnav li:first-child{-webkit-border-top-left-radius:9px;-webkit-border-bottom-left-radius:9px;-moz-border-radius-topleft:9px;-moz-border-radius-bottomleft:9px;border-top-left-radius:9px;border-bottom-left-radius:9px}
 nav.mainnav li:last-child{-webkit-border-bottom-right-radius:9px;-webkit-border-top-right-radius:9px;-moz-border-radius-bottomright:9px;-moz-border-radius-topright:9px;border-bottom-right-radius:9px;border-top-right-radius:9px}
-nav.mainnav li a{font-family: "Lato";font-weight:600;padding:20px 30px;display:block;text-align:center;position:relative;text-decoration:none;text-transform:uppercase;color:#3f3f38;text-shadow:1px 1px 0 rgba(255,255,255,0.8);font-size:16px;font-weight:700}
+nav.mainnav li a{font-family: "Lato";font-weight:600;padding:20px 30px;display:block;text-align:center;position:relative;text-decoration:none;text-transform:uppercase;color:#3f3f38;text-shadow:1px 1px 0 rgba(255,255,255,0.8);font-size:16px;font-weight:300}
 nav.mainnav li.current{background:white}
 nav.mainnav li:first-child:hover{background:#fafafa;background:rgba(249,141,51,0.9)}
 nav.mainnav li:hover{background:#fafafa;background:rgba(218,56,48,0.8)}

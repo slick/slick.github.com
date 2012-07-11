@@ -5,6 +5,25 @@ layout: default
 {% include headertop.html %}
 {% include headerbottom.html %}
 
-{{ content }}
+<!-- Top Bar -->
+{% include topbar.html %}
 
+<!-- Main Container -->
+{% include hiddenmain.html %}
+
+<!-- Secondary Container -->
+<div class="wrapper">
+	<div class="main-content">
+		<div class="container" id="lower">
+			<div class="row">
+				<div class="span12">
+					{{ content }}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Footer -->
+{% include footerbar.html %}
 {% include footer.html %}

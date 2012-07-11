@@ -1,23 +1,5 @@
 <!-- Top Bar -->
-<div class="topbar">
-	<div class="container"
-	     style="padding-top: 30px; padding-bottom: 30px;">
-		<div class="row">
-			<div class="span4">
-				<a href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/resources/images/slick-logo.png"/></a>
-			</div>
-			<div class="span8">
-				<nav class="mainnav">
-					<ul class="frontpage-nav">
-						<li><a href="{{ site.baseurl }}/download">Download</a></li>
-						<li><a href="{{ site.baseurl }}/docs">Documentation</a></li>
-						<li><a href="{{ site.baseurl }}/community">Community</a></li>
-					</ul>
-				</nav>
-			</div>		
-		</div>		
-	</div>
-</div>
+{% include topbar.html %}
 
 <!-- Main Container -->
 <div class="wrapper">
@@ -98,15 +80,4 @@
 </div>
 
 <!-- Footer -->
-<div class="footerbar">
-	<div class="container">
-		<div class="row">
-			<div class="span12">
-				<div class="footerbar-copyright">
-					Copyright &copy; 2012 <a href="http://www.epfsfsl.ch">EPFL</a> and <a href="http://typesafe.com">Typesafe, Inc.</a>					
-				</div>
-				<img src="{{ site.baseurl }}/resources/images/slick-logo-sm.png"/>
-			</div>
-		</div>
-	</div>
-</div>
+{% include footerbar.html %}
