@@ -59,7 +59,7 @@
 			<div class="span8">
 				<img src="{{ site.baseurl }}/resources/images/simple-query.png">
 
-<pre class="prettyprint lang-scala linenums">
+<pre class="prettyprint lang-scala linenums" style="width: 580px;">
 @table("COFFEES") case class Coffee(
   @column("COF_NAME")  name:  String,
   @column("SUP_ID") supID: Int,
@@ -74,7 +74,7 @@ coffees ++= List(
   Coffee("French_Roast_Decaf", 49, 9.99)
 )
 val l = for {
-	c &lt;- coffees if c.supID == 101
+  c &lt;- coffees if c.supID == 101
 } yield (c.name, c.price)
 
 l.foreach { case (n, p) => println(n + ": " + p) }
