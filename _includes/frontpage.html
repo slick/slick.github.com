@@ -58,7 +58,8 @@
 		<div class="container" id="lower">
 			<div class="row">
 				<div class="span8">
-					<img src="{{ site.baseurl }}/resources/images/simple-query.png">
+					<h1>A Simple Query</h1>
+					<!-- <img src="{{ site.baseurl }}/resources/images/simple-query.png"> -->
 
 	<pre class="prettyprint lang-scala linenums" style="width: 580px;">
 	@table("COFFEES") case class Coffee(
@@ -83,9 +84,13 @@
 
 				</div>
 				<div class="span4">
-					<img src="{{ site.baseurl }}/resources/images/news.png">
-					<p>Some news items here</p>
-					<img src="{{ site.baseurl }}/resources/images/about.png">
+					<!-- <img src="{{ site.baseurl }}/resources/images/news.png"> -->
+					<h1><a href="/news">News</a></h1>
+					{% include news-feed.html %}
+					<!-- <img src="{{ site.baseurl }}/resources/images/about.png"> -->
+					<h1>About</h1>
+					<p>Scala is a general purpose programming language designed to express common programming patterns in a concise, elegant, and type-safe way.</p>
+					<p>Scala is a general purpose programming language designed to express common programming patterns in a concise, elegant, and type-safe way.</p>
 				</div>
 			</div>
 		</div>
