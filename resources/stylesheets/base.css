@@ -35,6 +35,7 @@ a:visited { color: rgba(149,73,87,1); }
 .news-title { font-family: 'Lato', sans-serif; font-size: 20px; font-weight: bolder; line-height: 20px; margin-bottom: 4px;}
 .news-title a { color: rgba(218,56,48,0.9); /*text-shadow:1px 1px 0 rgba(255, 255, 255, 0.6)*/ }
 .news-title a:hover { color: rgba(149,73,87,0.9); text-decoration: none; }
+.news-author { font-family: "Lato", sans-serif; color: rgba(0,0,0,0.4); text-transform: uppercase; margin-top: 6px; margin-bottom: 8px; font-weight: bold; font-size: 14px; }
 
 a.scroll { color: rgba(218, 56, 48, 0.9); }
 div#toc { margin-left: -16px; }
