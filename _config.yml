@@ -1,2 +1,4 @@
 title: "Slick"
 description: "A domain-specific language for accessing relational databases in Scala"
+
+baseurl:/
