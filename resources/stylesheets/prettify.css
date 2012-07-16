@@ -8,8 +8,8 @@
 .com { color: #7b009a; }
 .lit { color: #7b009a; }
 .pun, .opn, .clo { color: #595050; }
-.fun { color: rgba(249, 135, 60, 1) }
-.str, .atv { color: #ffa823; }
+.fun { color: rgba(249, 135, 60, 1); }
+.str, .atv { color: rgba(249, 135, 60, 1); }
 .kwd, .tag { color: rgba(136,73,149,0.9); }
 .typ, .atn, .dec, .var { color: #d93028; }
 .pln { color: #595050; }
