@@ -1,12 +1,13 @@
     <!-- javascript -->
     <script src="{{ site.baseurl }}/resources/javascript/bootstrap.min.js" type="text/javascript" ></script>
+    <script src="{{ site.baseurl }}/resources/javascript/jquery-ui-1.8.22.custom.min.js" type="text/javascript" ></script>
     <script src="{{ site.baseurl }}/resources/javascript/prettify.js" type="text/javascript" ></script>
     <script src="{{ site.baseurl }}/resources/javascript/toc.js" type="text/javascript" ></script>
     <script src="{{ site.baseurl }}/resources/javascript/scrollTo.js" type="text/javascript" ></script>
     <script src="{{ site.baseurl }}/resources/javascript/effects.core.js" type="text/javascript" ></script>
     <script src="{{ site.baseurl }}/resources/javascript/effects.highlights.js" type="text/javascript" ></script>
     <script type="text/javascript">
-			$('#toc').toc({numerate: false});
+			$('#toc').toc({numerate: false, exclude: '.twtr-widget *'});
     </script>
   </body>
 </html>

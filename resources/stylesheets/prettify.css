@@ -5,14 +5,12 @@
 /*darker red d93028*/
 /*purple 7b1c2d*/
 
-.com { color: #7b009a; }
-.lit { color: #7b009a; }
-.pun, .opn, .clo { color: #595050; }
+.lit, .kwd, .tag { color: #7b009a; }
+.pun, .opn, .clo, .com { color: #595050; }
 .fun { color: rgba(249, 135, 60, 1); }
 .str, .atv { color: rgba(249, 135, 60, 1); }
-.kwd, .tag { color: rgba(136,73,149,0.9); }
 .typ, .atn, .dec, .var { color: #d93028; }
-.pln { color: #595050; }
+.pln { color: #303030; }
 pre.prettyprint {
 /*  background: #fefbf3;
   padding: 9px;
@@ -27,10 +25,10 @@ pre.prettyprint {
   box-shadow: 0px 1px 2px #666;
   border-radius: 2px;
   background: #fff;
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#eee));
-  background: -moz-linear-gradient(top, #fff, #eee);
-  background: -o-linear-gradient(top, #fff, #eee);
-  background: linear-gradient(top, #fff, #eee);    
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#f2f2f2));
+  background: -moz-linear-gradient(top, #fff, #f2f2f2);
+  background: -o-linear-gradient(top, #fff, #f2f2f2);
+  background: linear-gradient(top, #fff, #f2f2f2);
 }
 
 /* Specify class=linenums on a pre to get line numbering */
