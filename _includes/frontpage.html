@@ -1,0 +1,85 @@
+<!-- Top Bar -->
+{% include topbar.html %}
+
+{{ site.baseurl }}
+
+<!-- Main Container -->
+<div class="wrapper">
+	<div class="main">
+		<div class="container" id="tagline">
+			<div class="row">
+				<div class="span12">
+					<h1>Write normal Scala code. Query any SQL database.</h1>
+				</div>
+			</div>
+			<div class="row">
+				<div class="span4">
+					<div class="box">
+						<img src="{{ site.baseurl }}/resources/images/orange-box.jpg">
+						<div class="textbox">Scala<p>The power of Scala's types, collections, and for-expressions&mdash; translated to SQL.</p></div>
+					</div>
+				</div>
+				<div class="span4">
+					<div class="box">
+						<img src="{{ site.baseurl }}/resources/images/red-box.jpg">
+						<div class="textbox">Type Safe<p>Unlike plain SQL, no runtime errors possible. All database entities are statically-checked at compile-time.</p></div>
+					</div>
+				</div>
+				<div class="span4">
+					<div class="box">
+						<img src="{{ site.baseurl }}/resources/images/purple-box.jpg">
+						<div class="textbox">Composable<p>Compose query comprehensions just as if you were using Scala's collections.</p></div>
+					</div>
+				</div>
+			</div>				
+		</div>	
+	</div>
+</div>
+
+<!-- Secondary Container -->
+<div class="wrapper">
+	<div class="secondary">
+		<div class="container" id="lower">
+			<div class="row">
+				<div class="span8">
+					<h1>A Simple Query</h1>
+					<!-- <img src="{{ site.baseurl }}/resources/images/simple-query.png"> -->
+
+	<pre class="prettyprint lang-scala linenums" style="width: 580px;">
+	@table("COFFEES") case class Coffee(
+	  @column("COF_NAME")  name:  String,
+	  @column("SUP_ID") supID: Int,
+	  @column("PRICE") price: Double
+	)
+
+	val backend = SlickBackend(MySqlBackend("dsn://..."))
+	val coffees = Queryable[Coffee](backend)
+	coffees ++= List(
+	  Coffee("Colombian", 101, 7.99),
+	  Coffee("Colombian_Decaf", 101, 8.99),
+	  Coffee("French_Roast_Decaf", 49, 9.99)
+	)
+	val l = for {
+	  c &lt;- coffees if c.supID == 101
+	} yield (c.name, c.price)
+
+	l.foreach { case (n, p) => println(n + ": " + p) }
+	</pre>	       
+
+				</div>
+				<div class="span4">
+					<!-- <img src="{{ site.baseurl }}/resources/images/news.png"> -->
+					<h1><a href="/news">News</a></h1>
+					{% include news-feed.html %}
+					<!-- <img src="{{ site.baseurl }}/resources/images/about.png"> -->
+					<h1>About</h1>
+					<p>Scala is a general purpose programming language designed to express common programming patterns in a concise, elegant, and type-safe way.</p>
+					<p>Scala is a general purpose programming language designed to express common programming patterns in a concise, elegant, and type-safe way.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Footer -->
+{% include footerbar.html %}

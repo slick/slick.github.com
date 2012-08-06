@@ -1,0 +1,28 @@
+---
+layout: page
+---
+
+<div class="row">
+	<div class="span8">
+		<div class="news-story">
+			{% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+			<div class="news-date" style="font-size: 20px;">{{ page.date | date: "%B %d %Y "}}</div>
+			<div class="news-author">by {{ page.author }}</div>
+			<div class="news-body" style="padding-top: 10px;">{{ content }}</div>
+		</div>
+	</div>
+	<div class="span4">
+		<h3 style="margin-bottom: 20px;">Past News Items</h3>
+		{% for p in site.posts limit: 9 %}
+			{% if forloop.index <= 1 %}
+			{% else %}
+				<div class="news-item">
+					<div class="news-date">{{ p.date | date: "%b %d %Y" }}</div>
+					<div class="news-title"><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></div>
+					<div class="news-body">{{ p.content | strip_html | truncatewords: 30 }}</div>
+				</div>			
+			{% endif %}
+		{% endfor %}		
+		<div class="centered"><a href="{{ site.baseurl }}/news/all-news.html">Full Index of News Stories</a></div>
+	</div>
+</div>
