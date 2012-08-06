@@ -1,2 +1,5 @@
 title: "Slick"
-description: "A domain-specific language for accessing relational databases in Scala"
+description: "Scala Language-Integrated Connection Kit"
+
+exclude:
+- README.md
