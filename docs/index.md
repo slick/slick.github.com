@@ -5,8 +5,8 @@ title: Documentation
 
 ## Slick Documentation
 
-* [Slick 0.11.0 Documentation](/doc/0.11.0/)
-* [Slick 0.11.0 Scaladoc](/doc/0.11.0/api/)
+* [Slick 0.11.1 Documentation](/doc/0.11.1/)
+* [Slick 0.11.1 Scaladoc](/doc/0.11.1/api/)
 
 ## Sample Code
 
