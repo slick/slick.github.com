@@ -5,8 +5,16 @@ title: Documentation
 
 ## Slick Documentation
 
+#### Latest Version
+* [Slick 0.11.2 Documentation](/doc/0.11.2/)
+* [Slick 0.11.2 Scaladoc](/doc/0.11.2/api/)
+
+#### Older Versions
 * [Slick 0.11.1 Documentation](/doc/0.11.1/)
 * [Slick 0.11.1 Scaladoc](/doc/0.11.1/api/)
+
+* [Slick 0.11.0 Documentation](/doc/0.11.0/)
+* [Slick 0.11.0 Scaladoc](/doc/0.11.0/api/)
 
 ## Sample Code
 
