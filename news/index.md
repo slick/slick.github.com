@@ -28,7 +28,7 @@ title: Slick News
 					{% if p.short %}
 						<div class="news-body">{{ p.short }}</div>
 					{% else %}
-						<div class="news-body">{{ p.content | strip_html | truncatewords: 30 }}</div>
+						<div class="news-body">{{ p.content | strip_html | truncatewords: 30 }} <a href="{{ site.baseurl }}{{ p.url }}">more</a></div>
 					{% endif %}
 				</div>			
 			{% endif %}

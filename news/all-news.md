@@ -10,7 +10,7 @@ title: Slick News
 			<div class="news-item">
 				<div class="news-date">{{ p.date | date: "%b %d %Y" }}</div>
 				<div class="news-title" style="font-size: 22px; padding-bottom: 4px;"><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></div>
-				<div class="news-body">{{ p.content | strip_html | truncatewords: 50 }}</div>
+				<div class="news-body">{{ p.content | strip_html | truncatewords: 50 }} <a href="{{ site.baseurl }}{{ p.url }}">more</a></div>
 			</div>			
 		{% endfor %}		
 	</div>
