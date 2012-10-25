@@ -15,6 +15,14 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 ## Talks
 
+#### 2012-10-17 Slick presentation at Bay Area Scala Enthusiasts
+
+* [Slides (PDF)](/talks/2012-10-17_Typesafe-Slick-presentation-at-BASE/2012-10-17_Typesafe-Slick-presentation-at-BASE.pdf)
+* [Slides (Powerpoint)](/talks/2012-10-17_Typesafe-Slick-presentation-at-BASE/2012-10-17_Typesafe-Slick-presentation-at-BASE.pptx)
+* Video coming up...
+* [Live code Example](https://github.com/cvogt/slick-presentation/tree/71f16c23fbb4b6737336ae03eb23a87658a88af8/)
+* [Event Website](http://www.meetup.com/Bay-Area-Scala-Enthusiasts/events/80269142/)
+
 #### Scala Language Integrated Connection Kit - Milestone 1
 
 Talk by Jan Christopher Vogt & Stefan Zeiger at [Scala Days 2012](http://days2012.scala-lang.org/)
