@@ -6,10 +6,12 @@ title: Documentation
 ## Slick Documentation
 
 #### Latest Version
+
 * [Slick 0.11.2 Documentation](/doc/0.11.2/)
 * [Slick 0.11.2 Scaladoc](/doc/0.11.2/api/)
 
 #### Older Versions
+
 * [Slick 0.11.1 Documentation](/doc/0.11.1/)
 * [Slick 0.11.1 Scaladoc](/doc/0.11.1/api/)
 
@@ -20,6 +22,11 @@ title: Documentation
 
 The [Slick Examples](https://github.com/slick/slick-examples) repository
 contains a ready-to-run sbt project with simple, documented Slick programs.
+
+## 3rd-Party Documentation
+
+* [Learning Slick](http://mackler.org/LearningSlick/) - A tutorial by Adam Mackler
+
 
 ## Talks
 
