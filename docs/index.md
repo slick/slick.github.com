@@ -34,7 +34,7 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 * [Slides (PDF)](/talks/2012-10-17_Typesafe-Slick-presentation-at-BASE/2012-10-17_Typesafe-Slick-presentation-at-BASE.pdf)
 * [Slides (Powerpoint)](/talks/2012-10-17_Typesafe-Slick-presentation-at-BASE/2012-10-17_Typesafe-Slick-presentation-at-BASE.pptx)
-* Video coming up...
+* [Video](https://www.youtube.com/watch?v=qmpljvYZWhI) (temporary version, voice/slide sync problems will be fixed shortly)
 * [Live code Example](https://github.com/cvogt/slick-presentation/tree/71f16c23fbb4b6737336ae03eb23a87658a88af8/)
 * [Event Website](http://www.meetup.com/Bay-Area-Scala-Enthusiasts/events/80269142/)
 
