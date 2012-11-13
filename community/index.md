@@ -6,8 +6,9 @@ title: Community
 ## Discuss
 
 Join the [Slick / ScalaQuery group](http://groups.google.com/group/scalaquery)
-at Google Groups to discuss Slick or get help with its use. There's also a
-[ScalaQuery tag on StackOverflow](http://stackoverflow.com/questions/tagged/scalaquery).
+at Google Groups to discuss Slick or get help with its use. There are also tags for
+[Slick](http://stackoverflow.com/questions/tagged/slick) and
+[ScalaQuery](http://stackoverflow.com/questions/tagged/scalaquery) on StackOverflow.
 
 ## Report Bugs
 
