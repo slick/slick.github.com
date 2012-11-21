@@ -30,12 +30,18 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 ## Talks
 
+#### 2012-10-17 Slick database access with Scala (Scala Exchange 2012)
+
+* [Info](http://skillsmatter.com/podcast/scala/slick-database-access-with-scala)
+* [Slides (PDF)](/talks/scalax2012/Slick_ScalaExchange_2012.pdf)
+* [Live Code Example](https://github.com/szeiger/slick-scalaexchange2012)
+
 #### 2012-10-17 Slick presentation at Bay Area Scala Enthusiasts
 
 * [Slides (PDF)](/talks/2012-10-17_Typesafe-Slick-presentation-at-BASE/2012-10-17_Typesafe-Slick-presentation-at-BASE.pdf)
 * [Slides (Powerpoint)](/talks/2012-10-17_Typesafe-Slick-presentation-at-BASE/2012-10-17_Typesafe-Slick-presentation-at-BASE.pptx)
 * [Video](http://www.youtube.com/watch?v=mJ_mnEwZMR0) (fixed version)
-* [Live code Example](https://github.com/cvogt/slick-presentation/tree/71f16c23fbb4b6737336ae03eb23a87658a88af8/)
+* [Live Code Example](https://github.com/cvogt/slick-presentation/tree/71f16c23fbb4b6737336ae03eb23a87658a88af8/)
 * [Event Website](http://www.meetup.com/Bay-Area-Scala-Enthusiasts/events/80269142/)
 
 #### Scala Language Integrated Connection Kit - Milestone 1
