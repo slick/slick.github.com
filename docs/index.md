@@ -32,7 +32,7 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 #### 2012-10-17 Slick database access with Scala (Scala Exchange 2012)
 
-* [Info](http://skillsmatter.com/podcast/scala/slick-database-access-with-scala)
+* [Info + Video](http://skillsmatter.com/podcast/scala/slick-database-access-with-scala)
 * [Slides (PDF)](/talks/scalax2012/Slick_ScalaExchange_2012.pdf)
 * [Live Code Example](https://github.com/szeiger/slick-scalaexchange2012)
 
