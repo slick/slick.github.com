@@ -7,10 +7,13 @@ title: Documentation
 
 #### Latest Version
 
-* [Slick 0.11.2 Documentation](/doc/0.11.2/)
-* [Slick 0.11.2 Scaladoc](/doc/0.11.2/api/)
+* [Slick 1.0.0-RC1 Documentation](/doc/1.0.0-RC1/)
+* [Slick 1.0.0-RC1 Scaladoc](/doc/1.0.0-RC1/api/)
 
 #### Older Versions
+
+* [Slick 0.11.2 Documentation](/doc/0.11.2/)
+* [Slick 0.11.2 Scaladoc](/doc/0.11.2/api/)
 
 * [Slick 0.11.1 Documentation](/doc/0.11.1/)
 * [Slick 0.11.1 Scaladoc](/doc/0.11.1/api/)
