@@ -7,10 +7,13 @@ title: Documentation
 
 #### Latest Version
 
-* [Slick 1.0.0-RC1 Documentation](/doc/1.0.0-RC1/)
-* [Slick 1.0.0-RC1 Scaladoc](/doc/1.0.0-RC1/api/)
+* [Slick 1.0.0-RC2 Documentation](/doc/1.0.0-RC2/)
+* [Slick 1.0.0-RC2 Scaladoc](/doc/1.0.0-RC2/api/)
 
 #### Older Versions
+
+* [Slick 1.0.0-RC1 Documentation](/doc/1.0.0-RC1/)
+* [Slick 1.0.0-RC1 Scaladoc](/doc/1.0.0-RC1/api/)
 
 * [Slick 0.11.2 Documentation](/doc/0.11.2/)
 * [Slick 0.11.2 Scaladoc](/doc/0.11.2/api/)
@@ -30,6 +33,9 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 * [Learning Slick](http://mackler.org/LearningSlick/) - A tutorial by Adam Mackler
 
+## Screencasts
+
+* [Screencast 1: Introduction to the query compiler](http://youtu.be/THlvR9bXHIc) (Stefan Zeiger, 2013-01-16)
 
 ## Talks
 

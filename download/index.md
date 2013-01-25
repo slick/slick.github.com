@@ -3,7 +3,7 @@ layout: doc
 title: Download
 ---
 
-The current release is Slick 0.11.2 for Scala 2.10.0-RC1.
+The current release is Slick 1.0.0-RC2 for Scala 2.10.0.
 You can declare it as a dependency in sbt or Maven projects or download the
 JARs directly.
 
@@ -11,7 +11,7 @@ JARs directly.
 
 Add the Slick dependency to your build.sbt, e.g.:
 
-    libraryDependencies += "com.typesafe" % "slick_2.10.0-RC1" % "0.11.2"
+    libraryDependencies += "com.typesafe.slick" %% "slick" % "1.0.0-RC2"
 
 ## Maven
  
@@ -19,19 +19,19 @@ Add the Slick dependency to your pom.xml, e.g.:
 
     <dependencies>
       <dependency>
-        <groupId>com.typesafe</groupId>
-        <artifactId>slick_2.10.0-RC1</artifactId>
-        <version>0.11.2</version>
+        <groupId>com.typesafe.slick</groupId>
+        <artifactId>slick_2.10-RC2</artifactId>
+        <version>1.0.0-RC2</version>
       </dependency>
     </dependencies>
 
 ## JARs
 
 You can download the JARs directly from
-[Maven Central](http://search.maven.org/#search|ga|1|g%3A%22com.typesafe%22).
+[Maven Central](http://search.maven.org/#search|ga|1|g%3A%22com.typesafe.slick%22).
 
 ## Source Code
 
 The source code can be found [on GitHub](http://github.com/slick/slick).
 Most development is happening in the *master* branch. Releases are generally made
-from the *stable* branch and tagged with the version number.
+from the major version branches and tagged with the version number.
