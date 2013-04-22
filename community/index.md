@@ -15,6 +15,11 @@ at Google Groups to discuss Slick or get help with its use. There are also tags 
 Please use the [issue tracker](http://github.com/slick/slick/issues) at GitHub
 to report bugs and issues.
 
+## Project Plan
+
+You can find our [project plan](https://www.assembla.com/spaces/typesafe-slick/milestones)
+and work items at Assembla.
+
 ## Get Involved
 
 Even better than bug reports and feature requests are patches and pull
