@@ -29,7 +29,7 @@ test, requiring only Java 6, git and
 [sbt](http://code.google.com/p/simple-build-tool/) 0.12.
 
 You will also have to sign the
-[Typesafe Contributor License Agreement](www.typesafe.com/contribute/cla)
+[Typesafe Contributor License Agreement](https://www.typesafe.com/contribute/cla)
 (takes two minutes on-line) before we can accept your contributions.
 
 <script src="http://widgets.twimg.com/j/2/widget.js"> </script>
