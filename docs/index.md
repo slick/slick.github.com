@@ -10,6 +10,11 @@ title: Documentation
 * [Slick 1.0.0 Documentation](/doc/1.0.0/)
 * [Slick 1.0.0 Scaladoc](/doc/1.0.0/api/)
 
+### Release Candidate
+
+* [Slick 1.0.1-RC1 Documentation](/doc/1.0.1-RC1/)
+* [Slick 1.0.1-RC1 Scaladoc](/doc/1.0.1-RC1/api/)
+
 #### Older Versions
 
 * [Slick 1.0.0-RC2 Documentation](/doc/1.0.0-RC2/)
