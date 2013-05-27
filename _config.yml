@@ -1,5 +1,6 @@
 title: "Slick"
 description: "Scala Language-Integrated Connection Kit"
+baseurl: "http://slick.typesafe.com"
 
 exclude:
 - README.md
