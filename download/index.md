@@ -3,7 +3,7 @@ layout: doc
 title: Download
 ---
 
-The current stable release is Slick 1.0.0 for Scala 2.10.0.
+The current stable release is Slick 1.0.1 for Scala 2.10.0.
 You can declare it as a dependency in sbt or Maven projects or download the
 JARs directly.
 
@@ -11,7 +11,7 @@ JARs directly.
 
 Add the Slick dependency to your build.sbt, e.g.:
 
-    libraryDependencies += "com.typesafe.slick" %% "slick" % "1.0.0"
+    libraryDependencies += "com.typesafe.slick" %% "slick" % "1.0.1"
 
 ## Maven
  
@@ -21,7 +21,7 @@ Add the Slick dependency to your pom.xml, e.g.:
       <dependency>
         <groupId>com.typesafe.slick</groupId>
         <artifactId>slick_2.10</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
       </dependency>
     </dependencies>
 

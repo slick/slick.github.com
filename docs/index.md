@@ -7,15 +7,18 @@ title: Documentation
 
 #### Latest Version
 
-* [Slick 1.0.0 Documentation](/doc/1.0.0/)
-* [Slick 1.0.0 Scaladoc](/doc/1.0.0/api/)
+* [Slick 1.0.1 Documentation](/doc/1.0.1/)
+* [Slick 1.0.1 Scaladoc](/doc/1.0.1/api/)
 
-### Release Candidate
+<!-- ## Release Candidate -->
+
+#### Older Versions
 
 * [Slick 1.0.1-RC1 Documentation](/doc/1.0.1-RC1/)
 * [Slick 1.0.1-RC1 Scaladoc](/doc/1.0.1-RC1/api/)
 
-#### Older Versions
+* [Slick 1.0.0 Documentation](/doc/1.0.0/)
+* [Slick 1.0.0 Scaladoc](/doc/1.0.0/api/)
 
 * [Slick 1.0.0-RC2 Documentation](/doc/1.0.0-RC2/)
 * [Slick 1.0.0-RC2 Scaladoc](/doc/1.0.0-RC2/api/)
@@ -47,7 +50,7 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 ## Talks
 
-#### 2012-10-17 Slick database access with Scala (Scala Exchange 2012)
+#### 2012-11-20 Slick database access with Scala (Scala Exchange 2012)
 
 * [Info + Video](http://skillsmatter.com/podcast/scala/slick-database-access-with-scala)
 * [Slides (PDF)](/talks/scalax2012/Slick_ScalaExchange_2012.pdf)
