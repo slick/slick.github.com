@@ -50,6 +50,11 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 ## Talks
 
+#### 2013-06-12 Slick vs ORM (ScalaDays 2013)
+
+* [Slides (PDF)](/talks/2013_scaladays/2013_scaladays.pdf)
+* [Sample Code](https://github.com/slick/play-slick/tree/scaladays2013)
+
 #### 2012-11-20 Slick database access with Scala (Scala Exchange 2012)
 
 * [Info + Video](http://skillsmatter.com/podcast/scala/slick-database-access-with-scala)
