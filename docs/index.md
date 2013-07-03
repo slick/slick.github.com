@@ -52,6 +52,7 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 #### 2013-06-12 Slick vs ORM (ScalaDays 2013)
 
+* [Video](http://parleys.com/play/51c2e20de4b0d38b54f46243/)
 * [Slides (PDF)](/talks/2013_scaladays/2013_scaladays.pdf)
 * [Sample Code](https://github.com/cvogt/play-slick/tree/scaladays2013/samples/computer-database/app) (work in progress)
 
