@@ -50,6 +50,10 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 ## Talks
 
+#### 2013-07-17 Database Access with Slick (Scalapeño 2013)
+
+* [Slides (PDF)](/talks/scalapeno2013/slick_scalapeno2013.pdf)
+
 #### 2013-06-12 Slick vs ORM (ScalaDays 2013)
 
 * [Video](http://parleys.com/play/51c2e20de4b0d38b54f46243/)
