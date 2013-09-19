@@ -50,6 +50,14 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 ## Talks
 
+
+#### 2013-09-17 Slick SQL interaction in Scala at ny-scala
+
+* [Slides (PDF)](/talks/2013-09-17_ny-scala/2013-09-17_Slick-SQL-interaction-in-Scala-at-ny-scala.pdf)
+* [Slides (Powerpoint)](/talks/2013-09-17_ny-scala/2013-09-17_Slick-SQL-interaction-in-Scala-at-ny-scala.pptx)
+* [Live Code Example](https://github.com/cvogt/slick-presentation/tree/ny-scala-2013)
+* [Event Website](http://www.meetup.com/ny-scala/events/131452772/)
+
 #### 2013-07-17 Database Access with Slick (Scalapeño 2013)
 
 * [Slides (PDF)](/talks/scalapeno2013/slick_scalapeno2013.pdf)
