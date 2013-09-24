@@ -25,6 +25,14 @@ Add the Slick dependency to your pom.xml, e.g.:
       </dependency>
     </dependencies>
 
+## Typsafe Activator
+
+The easiest way to get started with Slick and other Typesafe technologies is
+by using the browser-based [Typesafe Activator](http://typesafe.com/activator)
+tool. Simply download Activator and open the "Hello Slick" template which will
+walk you through the content of the "Getting Started" chapter in the Slick
+user manual.
+
 ## JARs
 
 You can download the JARs directly from
