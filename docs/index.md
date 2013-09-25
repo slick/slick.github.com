@@ -51,6 +51,13 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 ## Talks
 
 
+#### 2013-09-25 Scaling Scala to the Database
+
+* [Slides (PDF)](/talks/2013-09-25_JavaOne/2013-09-25_JavaOne-Scaling-Scala-to-the-Database.pdf)
+* [Slides (Powerpoint)](/talks/2013-09-25_JavaOne/2013-09-25_JavaOne-Scaling-Scala-to-the-Database.pptx)
+* [Live Code Example](https://github.com/cvogt/slick-presentation/tree/javaone-2013)
+* [Event Website](https://oracleus.activeevents.com/2013/connect/sessionDetail.ww?SESSION_ID=5199)
+
 #### 2013-09-17 Slick SQL interaction in Scala at ny-scala
 
 * [Slides (PDF)](/talks/2013-09-17_ny-scala/2013-09-17_Slick-SQL-interaction-in-Scala-at-ny-scala.pdf)
