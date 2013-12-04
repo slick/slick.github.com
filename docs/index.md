@@ -43,6 +43,7 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 ## 3rd-Party Documentation
 
 * [Learning Slick](http://mackler.org/LearningSlick/) - A tutorial by Adam Mackler
+* [Blog posts / extensions](https://github.com/slick/slick/issues/478) - An unsorted list of 3rd party publications on Slick (code or text).
 
 ## Screencasts
 
@@ -50,6 +51,12 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 ## Talks
 
+#### 2013-12-03 Patterns for Slick database applications at Scala eXchange 2013
+
+* [Slides (PDF)](/talks/2013-12-03_Scala-eXchange/2013-09-17_Patterns-for-Slick-database-applications-Scala-eXchange.pdf)
+* [Slides (Powerpoint)](/talks/2013-12-03_Scala-eXchange/2013-09-17_Patterns-for-Slick-database-applications-Scala-eXchange.pptx)
+* [Code Examples](https://github.com/cvogt/slick-presentation/tree/scala-exchange-2013)
+* [Event Website](http://skillsmatter.com/podcast/scala/patterns-for-slick-database-applications)
 
 #### 2013-09-25 Scaling Scala to the Database
 
