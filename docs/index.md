@@ -5,10 +5,15 @@ title: Documentation
 
 ## Slick Documentation
 
-#### Latest Version
+#### Latest Release
 
 * [Slick 1.0.1 Documentation](/doc/1.0.1/)
 * [Slick 1.0.1 Scaladoc](/doc/1.0.1/api/)
+
+#### Latest Milestone
+
+* [Slick 2.0.0-M3 Documentation](/doc/2.0.0-M3/)
+* [Slick 2.0.0-M3 Scaladoc](/doc/2.0.0-M3/api/)
 
 <!-- ## Release Candidate -->
 
