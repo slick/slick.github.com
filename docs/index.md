@@ -56,12 +56,20 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 ## Talks
 
+#### 2013-12-04 So Slick! An introduction. At Scala User Group Berlin Brandenburg
+
+* [Slides (PDF)](/talks/2013-12-04_So-Slick-SUG-Berlin-Brandenburg/2013-12-04_So-Slick-SUG-Berlin-Brandenburg.pdf)
+* [Slides (Powerpoint)](/talks/2013-12-04_So-Slick-SUG-Berlin-Brandenburg/2013-12-04_So-Slick-SUG-Berlin-Brandenburg.pptx)
+* [Code Examples](https://github.com/cvogt/slick-presentation/tree/2013/sug-berlin)
+* [Event Website](http://www.meetup.com/Scala-Berlin-Brandenburg/events/149565142/)
+* [Video]() coming soon...
+
 #### 2013-12-03 Patterns for Slick database applications at Scala eXchange 2013
 
-* [Slides (PDF)](/talks/2013-12-03_Scala-eXchange/2013-09-17_Patterns-for-Slick-database-applications-Scala-eXchange.pdf)
-* [Slides (Powerpoint)](/talks/2013-12-03_Scala-eXchange/2013-09-17_Patterns-for-Slick-database-applications-Scala-eXchange.pptx)
+* [Slides (PDF)](/talks/2013-12-03_Scala-eXchange/2013-12-03_Patterns-for-Slick-database-applications-Scala-eXchange.pdf)
+* [Slides (Powerpoint)](/talks/2013-12-03_Scala-eXchange/2013-12-03_Patterns-for-Slick-database-applications-Scala-eXchange.pptx)
 * [Code Examples](https://github.com/cvogt/slick-presentation/tree/scala-exchange-2013)
-* [Event Website](http://skillsmatter.com/podcast/scala/patterns-for-slick-database-applications)
+* [Video](http://skillsmatter.com/podcast/scala/patterns-for-slick-database-applications)
 
 #### 2013-09-25 Scaling Scala to the Database
 
