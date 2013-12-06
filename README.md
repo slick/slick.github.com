@@ -26,9 +26,9 @@ Install Jekyll using the gem package manager:
 
 ## Building & Viewing ##
 
-cd into the `slick-website` directory, and build by:
+Launch the Jekyll server with auto-regeneration and an overwritten baseurl (so that it doesn't use the one from `_config.yml`):
 
-    jekyll --server
+    jekyll serve --watch --baseurl ''
 
 The generated site is available at `http://localhost:4000`
 
