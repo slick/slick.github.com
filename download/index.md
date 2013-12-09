@@ -3,42 +3,30 @@ layout: doc
 title: Download
 ---
 
-The current stable release is Slick 1.0.1 for Scala 2.10.
-You can declare it as a dependency in sbt or Maven projects or download the
-JARs directly.
+The current stable release is Slick 2.0.0 for Scala 2.10.
 
-## sbt
+The easiest way to get started is with a working application in [Typesafe Activator](http://typesafe.com/activator). To 
+learn the basics of Slick start with the [Hello Slick](http://typesafe.com/activator/template/hello-slick) template. To 
+learn how to integrate Slick with Play Framework check out the 
+[Play Slick with Typesafe IDs](http://typesafe.com/activator/template/play-slick-advanced) template.
 
-Add the Slick dependency to your build.sbt, e.g.:
+To include Slick into an existing project use the library published on 
+[Maven Central](http://search.maven.org/#search|ga|1|g%3A%22com.typesafe.slick%22).   
 
-    libraryDependencies += "com.typesafe.slick" %% "slick" % "1.0.1"
+For sbt / Play Framework projects add the following to your `libraryDependencies`:
 
-## Maven
- 
-Add the Slick dependency to your pom.xml, e.g.:
+    "com.typesafe.slick" %% "slick" % "2.0.0"
 
-    <dependencies>
-      <dependency>
+For Maven projects add the following to your `<dependencies>`:
+
+    <dependency>
         <groupId>com.typesafe.slick</groupId>
         <artifactId>slick_2.10</artifactId>
         <version>1.0.1</version>
-      </dependency>
-    </dependencies>
+    </dependency>
 
-## Typsafe Activator
-
-The easiest way to get started with Slick and other Typesafe technologies is
-by using the browser-based [Typesafe Activator](http://typesafe.com/activator)
-tool. Simply download Activator and open the "Hello Slick" template which will
-walk you through the content of the "Getting Started" chapter in the Slick
-user manual.
-
-## JARs
-
-You can download the JARs directly from
+You can also download the JARs directly from
 [Maven Central](http://search.maven.org/#search|ga|1|g%3A%22com.typesafe.slick%22).
-
-## Source Code
 
 The source code can be found [on GitHub](http://github.com/slick/slick).
 Most development is happening in the *master* branch. Releases are generally made
