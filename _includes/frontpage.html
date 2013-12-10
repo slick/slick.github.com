@@ -7,7 +7,7 @@
 		<div class="container" id="tagline">
 			<div class="row">
 				<div class="span12">
-					<h1>Scala Language-Integrated Connection Kit</h1>
+					<h1>Functional Relational Mapping for Scala</h1>
 				</div>
 			</div>
 			<div class="row">
@@ -29,8 +29,8 @@
 						<div class="textbox">Composable<p>Compose query operations just as if you were using Scala's collections.</p></div>
 					</div>
 				</div>
-			</div>				
-		</div>	
+			</div>
+		</div>
 	</div>
 </div>
 
@@ -40,111 +40,26 @@
 		<div class="container" id="lower">
 			<div class="row">
 				<div class="span8">
-          <h1>Examples</h1>
-<div id="example-tabs" style="width:580px; visibility: hidden">
-	<ul>
-		<li><a href="#tabs-1">Lifted Embedding</a></li>
-		<li><a href="#tabs-2">Direct Embedding</a></li>
-		<li><a href="#tabs-3">Plain SQL</a></li>
-	</ul>
-	<div id="tabs-1">
-		<p>The <i>lifted embedding</i> is Slick's stable query API which is based
-    on <a href="http://scalaquery.org">ScalaQuery</a>. This example shows how
-    to insert data and perform a simple query:</p>
-    <pre class="prettyprint lang-scala linenums">
-  object Coffees extends Table[(String, Int, Double)]("COFFEES") {
-    def name = column[String]("COF_NAME", O.PrimaryKey)
-    def supID = column[Int]("SUP_ID")
-    def price = column[Double]("PRICE")
-    def * = name ~ supID ~ price
-  }
-
-  Coffees.insertAll(
-    ("Colombian",         101, 7.99),
-    ("Colombian_Decaf",   101, 8.99),
-    ("French_Roast_Decaf", 49, 9.99)
-  )
-
-  val q = for {
-    c &lt;- Coffees if c.supID === 101
-    //                       ^ comparing Rep[Int] to Rep[Int]!
-  } yield (c.name, c.price)
-
-  println(q.selectStatement)
-
-  q.foreach { case (n, p) => println(n + ": " + p) }</pre>
-	</div>
-	<div id="tabs-2">
-    <p>The <i>direct embedding</i> is a new experimental API for Slick that
-    uses <a href="http://scalamacros.org">macros</a> to allow expressions
-    operating on standard Scala types to be used for database queries. This
-    example uses a Scala <i>case class</i> to perform a
-    simple query:</p>
-    <pre class="prettyprint lang-scala linenums">
-  @table("COFFEES") case class Coffee(
-    @column("COF_NAME")  name:  String,
-    @column("SUP_ID") supID: Int,
-    @column("PRICE") price: Double
-  )
-  val coffees = Queryable[Coffee]
-
-  // for inserts use lifted embedding or SQL
-
-  val l = for {
-    c &lt;- coffees if c.supID == 101
-    //                       ^ comparing Int to Int!
-  } yield (c.name, c.price)
-
-  backend.result( l, session )
-   .foreach { case (n, p) => println(n + ": " + p) }
-</pre>
-	</div>
-	<div id="tabs-3">
-		<p>Slick also allows you to write your own SQL queries and execute them
-    with an API which is optimized for Scala, much easier to use and more
-    concise than JDBC. This example uses plain SQL code to insert some data
-    and perform a query, mapping its results to a case class:</p>
-    <pre class="prettyprint lang-scala linenums">
-  case class Coffee(name: String, supID: Int, price: Double)
-
-  implicit val getCoffeeResult = GetResult(r => Coffee(r.&lt;&lt;, r.&lt;&lt;, r.&lt;&lt;))
-
-  Database.forURL("...") withSession {
-    Seq(
-      Coffee("Colombian", 101, 7.99),
-      Coffee("Colombian_Decaf", 101, 8.99),
-      Coffee("French_Roast_Decaf", 49, 9.99)
-    ).foreach(c => sqlu"""
-        insert into coffees values (${c.name}, ${c.supID}, ${c.price})
-      """).execute)
-
-    val sup = 101
-    val q = sql"select * from coffees where sup_id = $sup".as[Coffee]
-    //      A bind variable to prevent SQL injection ^
-    q.foreach(println)
-  }</pre>
-	</div>
-</div>
-<script type="text/javascript">
-  $(function() { $('#example-tabs').tabs().css("visibility", "visible"); });
-</script>
-
+					<p>Slick is a modern database query and access library for Scala. It
+						allows you to work with stored data almost as if you were using
+						Scala collections while at the same time giving you full control
+						over when a database access happens and which data is transferred.
+						You can write your database queries in Scala instead of SQL, thus
+						profiting from the static checking, compile-time safety and
+						compositionality of Scala. Slick features an extensible query
+						compiler which can generate code for different backends.</p>
+					<div class="box">
+						<div class="bg">
+							<video src="http://downloads.typesafe.com/videos/hello-slick.mp4" width="600" height="338" poster="{{ site.baseurl }}/resources/images/hello-slick.png"></video>
+						</div>
+					</div>
 				</div>
 				<div class="span4">
-					<!-- <img src="{{ site.baseurl }}/resources/images/news.png"> -->
-					<h1><a href="/news">News</a></h1>
+					<h1><a href="http://typesafe.com/activator/template/hello-slick">New to Slick?</a></h1>
+					<p>Get started in minutes using the <a href="http://typesafe.com/activator/template/hello-slick">Hello Slick</a> template in <a href="http://typesafe.com/activator">Typesafe Activator</a>.</p>
+					<h1 style="margin-top: 15px;"><a href="/news">News</a></h1>
 					{% include news-feed.html %}
-					<!-- <img src="{{ site.baseurl }}/resources/images/about.png"> -->
-          <p><a href="/news/all-news.html">News archive</a></p>
-					<h1>About</h1>
-					<p>Slick is a modern database query and access library for Scala. It
-          allows you to work with stored data almost as if you were using
-          Scala collections while at the same time giving you full control
-          over when a database access happens and which data is transferred.
-          You can write your database queries in Scala instead of SQL, thus
-          profiting from the static checking, compile-time safety and
-          compositionality of Scala. Slick features an extensible query
-          compiler which can generate code for different backends.</p>
+					<p><a href="/news/all-news.html">News archive</a></p>
 				</div>
 			</div>
 		</div>
