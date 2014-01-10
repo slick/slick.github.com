@@ -32,37 +32,6 @@ You will also have to sign the
 [Typesafe Contributor License Agreement](https://www.typesafe.com/contribute/cla)
 (takes two minutes on-line) before we can accept your contributions.
 
-<script src="http://widgets.twimg.com/j/2/widget.js"> </script>
-<script>
-new TWTR.Widget({
-  version: 2,
-  type: 'search',
-  search: '#ScalaQuery OR #scala-query OR ScalaQuery OR (scala AND slick)',
-  interval: 6000,
-  title: 'Recent tweets mentioning Slick or ScalaQuery',
-  subject: '',
-  width: '698',
-  height: 300,
-  theme: {
-    shell: {
-      background: '#f8f8f8',
-      color: '#000000'
-    },
-    tweets: {
-      background: '#ffffff',
-      color: '#000000',
-      links: '#0050b0'
-    }
-  },
-  features: {
-    scrollbar: true,
-    loop: false,
-    live: true,
-    hashtags: true,
-    timestamp: true,
-    avatars: true,
-    toptweets: true,
-    behavior: 'all'
-  }
-}).render().start();
-</script>
+## Twitter Activity <a href="http://twitter.com" style="padding-left: 0.5em"><img src="/resources/images/Twitter_logo_blue.png" style="width: 1.1em; height: 1.1em; padding: 0; margin: 0; vertical-align: text-bottom"/></a>
+<a class="twitter-timeline" data-chrome="nofooter transparent noheader" width="698" height="600" href="https://twitter.com/search?q=%23ScalaQuery+OR+%23scala-query+OR+ScalaQuery+OR+%28scala+AND+slick%29"  data-widget-id="421603285133295617">Tweets about "#ScalaQuery OR #scala-query OR ScalaQuery OR (scala AND slick)"</a>
+<script src="/resources/javascript/twitter.js"> </script>
