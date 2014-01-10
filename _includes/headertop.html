@@ -36,4 +36,15 @@
           });
           prettyPrint()
       }
-    </script>    
+    </script>
+    
+    {% if page.url == "/index.html" %}
+      <link rel="stylesheet" href="{{ site.baseurl }}/resources/vendor/mediaelement/2.13.1/mediaelementplayer.min.css" type="text/css" />
+      <link rel="stylesheet" href="{{ site.baseurl }}/resources/vendor/mediaelement/2.13.1/mejs-skins.css" type="text/css" />
+      <script src="{{ site.baseurl }}/resources/vendor/mediaelement/2.13.1/mediaelement-and-player.min.js"></script>
+      <script>
+          $(function() {
+              new MediaElementPlayer('video')
+          })
+      </script>
+    {% endif %}
