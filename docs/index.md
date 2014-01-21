@@ -7,17 +7,18 @@ title: Documentation
 
 #### Latest Release
 
-* [Slick 1.0.1 Documentation](/doc/1.0.1/)
-* [Slick 1.0.1 Scaladoc](/doc/1.0.1/api/)
+* [Slick 2.0.0 Documentation](/doc/2.0.0/)
+* [Slick 2.0.0 Scaladoc](/doc/2.0.0/api/)
 
 <!-- #### Latest Milestone -->
 
-#### Release Candidate
+#### Older Versions
 
 * [Slick 2.0.0-RC1 Documentation](/doc/2.0.0-RC1/)
 * [Slick 2.0.0-RC1 Scaladoc](/doc/2.0.0-RC1/api/)
 
-#### Older Versions
+* [Slick 1.0.1 Documentation](/doc/1.0.1/)
+* [Slick 1.0.1 Scaladoc](/doc/1.0.1/api/)
 
 * [Slick 1.0.0 Documentation](/doc/1.0.0/)
 * [Slick 1.0.0 Scaladoc](/doc/1.0.0/api/)
