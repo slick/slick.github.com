@@ -54,7 +54,7 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 * [Slides (Powerpoint)](/talks/2013-12-04_So-Slick-SUG-Berlin-Brandenburg/2013-12-04_So-Slick-SUG-Berlin-Brandenburg.pptx)
 * [Code Examples](https://github.com/cvogt/slick-presentation/tree/2013/sug-berlin)
 * [Event Website](http://www.meetup.com/Scala-Berlin-Brandenburg/events/149565142/)
-* [Video]() coming soon...
+* [Video](http://vimeo.com/84724348)
 
 #### 2013-12-03 Patterns for Slick database applications at Scala eXchange 2013
 
