@@ -44,7 +44,6 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 ## 3rd-Party Documentation
 
-* [Learning Slick](http://mackler.org/LearningSlick/) - A tutorial by Adam Mackler
 * [Blog posts / extensions](https://github.com/slick/slick/issues/478) - An unsorted list of 3rd party publications on Slick (code or text).
 
 ## Screencasts
