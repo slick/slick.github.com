@@ -4,6 +4,7 @@ title: Download
 ---
 
 The current stable release is Slick 2.0.1 for Scala 2.10.
+The latest milestone release is Slick 2.1.0-M1 for Scala 2.10 (2.10.4 recommended) and 2.11.0-RC4.
 
 The easiest way to get started is with a working application in [Typesafe Activator](http://typesafe.com/activator). To 
 learn the basics of Slick start with the [Hello Slick](http://typesafe.com/activator/template/hello-slick) template. To 
