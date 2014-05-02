@@ -65,12 +65,12 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 #### 2014-02-05 Slick 2.0 Webinar
 
 * [Slides (PDF)](/talks/2014-02-05_Webinar/Slick_2.0.pdf)
-* Video coming soon
+* [Video](https://typesafe.com/blog/webinar-introducing-slick-2_0)
 
 #### 2014-02-03 Database Access with Slick (at Amsterdam.scala)
 
 * [Slides (PDF)](/talks/2014-02-03_AmsterdamScala/Database_Access_with_Slick_AmsterdamScala.pdf)
-* Video coming soon
+* [Video](http://www.dailymotion.com/video/x1bd5cp_database-access-with-slick-presented-at-amsterdam-scala-meetup_tech)
 
 #### 2013-12-04 So Slick! An introduction. At Scala User Group Berlin Brandenburg
 
