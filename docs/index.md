@@ -69,9 +69,13 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 [Upcoming...](http://www.meetup.com/Scala-Developers-Barcelona/)
 
+*by Jan Christopher Vogt*
+
 #### 2014-06-18 Customizable code generation and other Slick 2 features / [Scala Days 2014](http://www.scaladays.org/), Berlin, Germany
 
 [Upcoming...](http://www.scaladays.org/#schedule/Customizable-code-generation-and-other-Slick---features)
+
+*by Jan Christopher Vogt*
 
 #### 2014-06-18 Slick in the field, learning to forget ORM / [Scala Days 2014](http://www.scaladays.org/), Berlin, Germany
 
@@ -79,7 +83,7 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 [Upcoming...](http://www.scaladays.org/#schedule/Slick-in-the-field--learning-to-forget-ORM)
 
-#### 2014-06-04 *Community* Intro to Slick / [BeScala](http://www.meetup.com/BeScala/), Kontich, Belgium
+#### 2014-06-04 Intro to Slick / [BeScala](http://www.meetup.com/BeScala/), Kontich, Belgium
 
 *by Yennick Trevels (third-party)*
 
