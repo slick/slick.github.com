@@ -74,9 +74,13 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 *by Jan Christopher Vogt*
 
-#### 2014-06-18 Customizable code generation and other Slick 2 features / [Scala Days 2014](http://www.scaladays.org/), Berlin, Germany
+#### 2014-06-18 Leveraging your data model with Slick 2 - code generation and other features / [Scala Days 2014](http://www.scaladays.org/), Berlin, Germany
 
-[Upcoming...](http://www.scaladays.org/#schedule/Customizable-code-generation-and-other-Slick---features)
+* Video coming soon...
+* [Slides (PDF)](/talks/2014-06-18_ScalaDays2014/2014-06-18_Scala-Days-2014_Levering-your-data-model-code-generation-and-beyond.pdf)
+* [Slides (Keynote)](/talks/2014-06-18_ScalaDays2014/2014-06-18_Scala-Days-2014_Levering-your-data-model-code-generation-and-beyond.key)
+* [Code](https://github.com/slick/play-slick-codegen)
+* [Event Website](http://www.scaladays.org/#schedule/Customizable-code-generation-and-other-Slick---features)
 
 *by Jan Christopher Vogt*
 
