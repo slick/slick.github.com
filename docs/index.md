@@ -57,6 +57,8 @@ title: Documentation
 The [Slick Examples](https://github.com/slick/slick-examples) repository
 contains a ready-to-run sbt project with simple, documented Slick programs.
 
+[Teller](https://github.com/HappyMelly/teller) is an open-source Play program which uses Slick extensively.
+
 ## 3rd-Party Documentation
 
 * [Learning Slick](https://mackler.org/LearningSlick2/) - A tutorial by Adam Mackler
