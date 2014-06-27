@@ -70,13 +70,16 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 #### 2014-06-26 Supporting your data model with Slick / [Scala Developers Barcelona](http://www.meetup.com/Scala-Developers-Barcelona/), Spain
 
-[Upcoming...](http://www.meetup.com/Scala-Developers-Barcelona/)
+* Video coming soon...
+* [Slides (PDF)](/talks/2014-06-26_Barcelona-Scala-Developers/2014-06-26_Barcelona-Scala-Developers_Supporting-your-data-model-with-Slick.pdf)
+* [Slides (Keynote)](/talks/2014-06-26_Barcelona-Scala-Developers/2014-06-26_Barcelona-Scala-Developers_Supporting-your-data-model-with-Slick.key)
+* [Event Website](http://www.meetup.com/Scala-Developers-Barcelona/events/184920892/)
 
 *by Jan Christopher Vogt*
 
 #### 2014-06-18 Leveraging your data model with Slick 2 - code generation and other features / [Scala Days 2014](http://www.scaladays.org/), Berlin, Germany
 
-* Video coming soon...
+* Video coming ca. mid July
 * [Slides (PDF)](/talks/2014-06-18_ScalaDays2014/2014-06-18_Scala-Days-2014_Levering-your-data-model-code-generation-and-beyond.pdf)
 * [Slides (Keynote)](/talks/2014-06-18_ScalaDays2014/2014-06-18_Scala-Days-2014_Levering-your-data-model-code-generation-and-beyond.key)
 * [Code](https://github.com/slick/play-slick-codegen)
