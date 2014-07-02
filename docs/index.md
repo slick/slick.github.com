@@ -93,11 +93,35 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 [Upcoming...](http://www.scaladays.org/#schedule/Slick-in-the-field--learning-to-forget-ORM)
 
+#### 2014-06-09 Functional Relational Mapping with Slick / [33rd Degree](http://2014.33degree.org/), Krakow, Poland
+
+* [Session info](http://2014.33degree.org/talk/show/51)
+* [Slides (PDF)](/talks/2014-06-09_33rd_Degree/Functional Relational Mapping with Slick.pdf)
+
 #### 2014-06-04 Intro to Slick / [BeScala](http://www.meetup.com/BeScala/), Kontich, Belgium
 
 *by Yennick Trevels (third-party)*
 
 [Upcoming...](http://meetu.ps/2kQv0x)
+
+#### 2014-05-13 Datenbankzugriff mit Slick (in German) / [JAX](http://jax.de/2014/), Mainz, Germany
+
+*by Stefan Zeiger*
+
+* [Session info](http://jax.de/2014/sessions/datenbankzugriff-mit-slick)
+* [Slides (PDF)](/talks/2014-05-13_JAX/Datenbankzugriff mit Slick.pdf)
+
+#### 2014-04-05 Database Access with Slick / [Scalar](http://scalar-conf.com/), Warsaw, Poland
+
+*by Stefan Zeiger*
+
+* [Slides (PDF)](/talks/2014-04-05_Scalar/Database Access with Slick.pdf)
+
+#### 2014-03-04 Slick Query Compiler / Talk at [LAMP](http://lamp.epfl.ch/), EPFL
+
+*by Stefan Zeiger*
+
+* [Slides (PDF)](/talks/2014-03-04_LAMP/Slick Query Compiler.pdf)
 
 #### 2014-02-05 Slick 2.0 Webinar
 
