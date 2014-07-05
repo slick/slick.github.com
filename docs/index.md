@@ -70,7 +70,7 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 #### 2014-06-26 Supporting your data model with Slick / [Scala Developers Barcelona](http://www.meetup.com/Scala-Developers-Barcelona/), Spain
 
-* Video coming soon...
+* [Video](http://www.youtube.com/watch?v=qco93tY0rYA) 
 * [Slides (PDF)](/talks/2014-06-26_Barcelona-Scala-Developers/2014-06-26_Barcelona-Scala-Developers_Supporting-your-data-model-with-Slick.pdf)
 * [Slides (Keynote)](/talks/2014-06-26_Barcelona-Scala-Developers/2014-06-26_Barcelona-Scala-Developers_Supporting-your-data-model-with-Slick.key)
 * [Event Website](http://www.meetup.com/Scala-Developers-Barcelona/events/184920892/)
