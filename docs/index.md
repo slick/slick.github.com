@@ -79,7 +79,7 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 #### 2014-06-18 Leveraging your data model with Slick 2 - code generation and other features / [Scala Days 2014](http://www.scaladays.org/), Berlin, Germany
 
-* Video coming ca. mid July
+* [Video](http://www.parleys.com/play/53a7d2cce4b0543940d9e55e/)
 * [Slides (PDF)](/talks/2014-06-18_ScalaDays2014/2014-06-18_Scala-Days-2014_Levering-your-data-model-code-generation-and-beyond.pdf)
 * [Slides (Keynote)](/talks/2014-06-18_ScalaDays2014/2014-06-18_Scala-Days-2014_Levering-your-data-model-code-generation-and-beyond.key)
 * [Code](https://github.com/slick/play-slick-codegen)
@@ -91,7 +91,8 @@ contains a ready-to-run sbt project with simple, documented Slick programs.
 
 *by Renato Cavalcanti (third-party)*
 
-[Upcoming...](http://www.scaladays.org/#schedule/Slick-in-the-field--learning-to-forget-ORM)
+* [Video](http://www.parleys.com/play/53a7d2c6e4b0543940d9e54c/)
+* [Event Website](http://www.scaladays.org/#schedule/Slick-in-the-field--learning-to-forget-ORM)
 
 #### 2014-06-09 Functional Relational Mapping with Slick / [33rd Degree](http://2014.33degree.org/), Krakow, Poland
 
