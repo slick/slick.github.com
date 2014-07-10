@@ -8,54 +8,70 @@ title: Documentation
 #### Latest Release
 
 * [Slick 2.0.2 Documentation](/doc/2.0.2/)
-* [Slick 2.0.2 Scaladoc](/doc/2.0.2/api/)
 
+<!--
 #### Latest Milestone
+
+-->
+
+#### Latest Release Candidate
+
+* [Slick 2.1.0-RC1 Documentation](/doc/2.1/)
+
+#### Older Versions
+
+<!--
+* [Slick 2.0.2-RC1 Documentation](/doc/2.0.2-RC1/)
+* [Slick 2.0.2-RC1 Scaladoc](/doc/2.0.2-RC1/api/)
 
 * [Slick 2.1.0-M2 Documentation](/doc/2.1.0-M2/)
 * [Slick 2.1.0-M2 Scaladoc](/doc/2.1.0-M2/api/)
 
-<!--
-#### Latest Release Candidate
-
--->
-
-#### Older Versions
-
 * [Slick 2.1.0-M1 Documentation](/doc/2.1.0-M1/)
 * [Slick 2.1.0-M1 Scaladoc](/doc/2.1.0-M1/api/)
-
-* [Slick 2.0.2-RC1 Documentation](/doc/2.0.2-RC1/)
-* [Slick 2.0.2-RC1 Scaladoc](/doc/2.0.2-RC1/api/)
 
 * [Slick 2.0.1-RC1 Documentation](/doc/2.0.1-RC1/)
 * [Slick 2.0.1-RC1 Scaladoc](/doc/2.0.1-RC1/api/)
 
-* [Slick 2.0.0 Documentation](/doc/2.0.0/)
-* [Slick 2.0.0 Scaladoc](/doc/2.0.0/api/)
+* [Slick 2.0.2-RC1 Documentation](/doc/2.0.2-RC1/)
+* [Slick 2.0.2-RC1 Scaladoc](/doc/2.0.2-RC1/api/)
+-->
 
+* [Slick 2.0.1 Documentation](/doc/2.0.1/)
+
+* [Slick 2.0.0 Documentation](/doc/2.0.0/)
+
+<!--
 * [Slick 2.0.0-RC1 Documentation](/doc/2.0.0-RC1/)
 * [Slick 2.0.0-RC1 Scaladoc](/doc/2.0.0-RC1/api/)
+-->
 
 * [Slick 1.0.1 Documentation](/doc/1.0.1/)
 * [Slick 1.0.1 Scaladoc](/doc/1.0.1/api/)
 
+<!--
 * [Slick 1.0.0 Documentation](/doc/1.0.0/)
 * [Slick 1.0.0 Scaladoc](/doc/1.0.0/api/)
+-->
 
 * [Slick 0.11.2 Documentation](/doc/0.11.2/)
 * [Slick 0.11.2 Scaladoc](/doc/0.11.2/api/)
 
+<!--
 * [Slick 0.11.1 Documentation](/doc/0.11.1/)
 * [Slick 0.11.1 Scaladoc](/doc/0.11.1/api/)
 
 * [Slick 0.11.0 Documentation](/doc/0.11.0/)
 * [Slick 0.11.0 Scaladoc](/doc/0.11.0/api/)
 
+-->
+
 ## Sample Code
 
-The [Slick Examples](https://github.com/slick/slick-examples) repository
-contains a ready-to-run sbt project with simple, documented Slick programs.
+* [Slick Activator Templates](https://github.com/typesafehub/?query=activator-slick)
+* [Slick Codegen Example](https://github.com/slick/slick-codegen-example)
+* [Slick Customized Codegen Example](https://github.com/slick/slick-customized-codegen-example)
+
 
 ## 3rd-Party Documentation
 
