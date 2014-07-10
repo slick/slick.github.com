@@ -16,7 +16,7 @@ title: Documentation
 
 #### Latest Release Candidate
 
-* [Slick 2.1.0-RC1 Documentation](/doc/2.1/)
+* [Slick 2.1.0-RC1 Documentation](/doc/2.1.0-RC1/)
 
 #### Older Versions
 
