@@ -16,7 +16,7 @@ title: Documentation
 
 #### Latest Release Candidate
 
-* [Slick 2.1.0-RC2 Documentation](/doc/2.1.0-RC2/)
+* [Slick 2.1.0-RC3 Documentation](/doc/2.1.0-RC3/)
 
 #### Older Versions
 
@@ -36,6 +36,8 @@ title: Documentation
 * [Slick 2.0.2-RC1 Documentation](/doc/2.0.2-RC1/)
 * [Slick 2.0.2-RC1 Scaladoc](/doc/2.0.2-RC1/api/)
 -->
+* [Slick 2.1.0-RC2 Documentation](/doc/2.1.0-RC2/)
+
 * [Slick 2.1.0-RC1 Documentation](/doc/2.1.0-RC1/)
 
 * [Slick 2.0.1 Documentation](/doc/2.0.1/)
