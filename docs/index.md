@@ -75,6 +75,12 @@ title: Documentation
 
 ## Talks
 
+#### 2014-09-24 Introduction to Slick 2.1 and 2.2 / [ScalaCamp](http://scalacamp.pl/) #7, Kraków, Poland
+
+* Video - coming soon
+* [Slides (PDF)](/talks/2014-09-24_ScalaCamp/Introduction_to_Slick_2.1_and_2.2.pdf)
+* [Event](http://www.meetup.com/Krakow-Scala-User-Group/events/205915832/)
+
 #### 2014-06-26 Supporting your data model with Slick / [Scala Developers Barcelona](http://www.meetup.com/Scala-Developers-Barcelona/), Spain
 
 * [Video](http://www.youtube.com/watch?v=qco93tY0rYA) 
