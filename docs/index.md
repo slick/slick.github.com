@@ -75,6 +75,16 @@ title: Documentation
 
 ## Talks
 
+#### 2014-10-23 Type-Level Computations in Scala / [Scala.io](http://scala.io/), Paris, France
+
+*by Stefan Zeiger*
+
+This talk describes the techniques used for the HList implementation in Slick.
+
+* Video - coming soon
+* [Slides (PDF)](/talks/scalaio2014/Type-Level_Computations.pdf)
+* [Event](http://scala.io/talks.html#/#CUP-414)
+
 #### 2014-09-24 Introduction to Slick 2.1 and 2.2 / [ScalaCamp](http://scalacamp.pl/) #7, Kraków, Poland
 
 * Video - coming soon
@@ -112,11 +122,12 @@ title: Documentation
 * [Session info](http://2014.33degree.org/talk/show/51)
 * [Slides (PDF)](/talks/2014-06-09_33rd_Degree/Functional Relational Mapping with Slick.pdf)
 
-#### 2014-06-04 Intro to Slick / [BeScala](http://www.meetup.com/BeScala/), Kontich, Belgium
+#### 2014-06-04 Slick - The Structured Way / [BeScala](http://www.meetup.com/BeScala/), Kontich, Belgium
 
 *by Yennick Trevels (third-party)*
 
-[Upcoming...](http://meetu.ps/2kQv0x)
+[Slides](http://www.slideshare.net/SlevinBE/slick-the-structured-way)
+[Event Website](http://meetu.ps/2kQv0x)
 
 #### 2014-05-13 Datenbankzugriff mit Slick (in German) / [JAX](http://jax.de/2014/), Mainz, Germany
 
