@@ -91,6 +91,14 @@ This talk describes the techniques used for the HList implementation in Slick.
 * [Slides (PDF)](/talks/2014-09-24_ScalaCamp/Introduction_to_Slick_2.1_and_2.2.pdf)
 * [Event](http://www.meetup.com/Krakow-Scala-User-Group/events/205915832/)
 
+#### 2014-09-05 Slick for database access in Scala, Auckland, New Zealand
+
+*by Michael Pollmeier (third-party)*
+
+* [Video](https://www.youtube.com/watch?v=ciyjJLYIySY) 
+* [Slides (HTML)](http://www.michaelpollmeier.com/presentations/2014-09-05-slick-scaladays/#/)
+* [Event](http://scaladownunder.org/)
+
 #### 2014-06-26 Supporting your data model with Slick / [Scala Developers Barcelona](http://www.meetup.com/Scala-Developers-Barcelona/), Spain
 
 * [Video](http://www.youtube.com/watch?v=qco93tY0rYA) 
