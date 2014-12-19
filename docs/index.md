@@ -11,8 +11,11 @@ title: Documentation
 
 * [Slick 2.0.3 Documentation](/doc/2.0.3/)
 
-<!--
 #### Latest Milestone
+
+* [Slick 3.0.0-M1 Documentation](/doc/3.0.0-M1/)
+
+<!--
 
 
 #### Latest Release Candidate
