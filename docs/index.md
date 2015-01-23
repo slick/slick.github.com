@@ -64,7 +64,7 @@ title: Documentation
 
 * [Slick Activator Templates](https://github.com/typesafehub/?query=activator-slick)
 * [Slick Codegen Example](https://github.com/slick/slick-codegen-example)
-* [Slick Customized Codegen Example](https://github.com/slick/slick-customized-codegen-example)
+* [Slick Codegen Customization Example](https://github.com/slick/slick-codegen-customization-example)
 
 
 ## 3rd-Party Documentation
