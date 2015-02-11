@@ -8,11 +8,19 @@ layout: default
 <!-- Top Bar -->
 {% include topbar.html %}
 
-<!-- Main Container -->
-{% include hiddenmain.html %}
+<!-- Page Title Container -->
+<div class="fw-wrapper page-title">
+    <div class="container">
+        <div class="row">
+            <div class="span12">
+                {% if page.title %}<h1>{{ page.title }}</h1>{% else %}<h1>{{ site.title }}</h1>{% endif %}
+            </div>
+        </div>
+    </div>
+</div>
 
-<!-- Secondary Container -->
-<div class="wrapper">
+<!-- Page Content Container -->
+<div class="fw-wrapper">
 	<div class="main-content">
 		<div class="container" id="lower">
 			<div class="row">
