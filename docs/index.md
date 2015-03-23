@@ -76,6 +76,14 @@ title: Documentation
 
 ## Talks
 
+#### 2015-03-18 Reactive Slick for Database Programming / [ScalaDays](http://event.scaladays.org/scaladays-sanfran-2015), San Francisco, CA
+
+*by Stefan Zeiger*
+
+* Video - coming soon
+* [Slides (PDF)](/talks/scaladays2015sf/Reactive_Slick_for_Database_Programming.pdf)
+* [Event](http://event.scaladays.org/scaladays-sanfran-2015#!#schedulePopupExtras-6554)
+
 #### 2014-10-23 Type-Level Computations in Scala / [Scala.io](http://scala.io/), Paris, France
 
 *by Stefan Zeiger*
