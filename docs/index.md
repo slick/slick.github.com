@@ -90,7 +90,7 @@ title: Documentation
 
 This talk describes the techniques used for the HList implementation in Slick.
 
-* Video - coming soon
+* [Video](https://www.youtube.com/watch?v=pV6-4D5wBQ0&list=PLjkHSzY9VuL_miML54E7cFgyNr6u8Ei8I&index=3)
 * [Slides (PDF)](/talks/scalaio2014/Type-Level_Computations.pdf)
 * [Event](http://scala.io/talks.html#/#CUP-414)
 
