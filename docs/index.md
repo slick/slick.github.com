@@ -13,11 +13,7 @@ title: Documentation
 
 #### Latest Release Candidate
 
-* [Slick 3.0.0-RC1 Documentation](/doc/3.0.0-RC1/)
-
-#### Latest Milestone
-
-* [Slick 3.0.0-M1 Documentation](/doc/3.0.0-M1/)
+* [Slick 3.0.0-RC2 Documentation](/doc/3.0.0-RC2/)
 
 #### Older Releases
 
