@@ -194,6 +194,12 @@ This talk describes the techniques used for the HList implementation in Slick.
 * [Slides (PDF)](/talks/2013-12-03_Scala-eXchange/2013-12-03_Patterns-for-Slick-database-applications-Scala-eXchange.pdf)
 * [Slides (Powerpoint)](/talks/2013-12-03_Scala-eXchange/2013-12-03_Patterns-for-Slick-database-applications-Scala-eXchange.pptx)
 
+#### 2014-10-29 Scaling Scala to the Database / [JAX London](https://jaxlondon.com/2015/)
+
+*by Stefan Zeiger*
+
+* [Slides (PDF)](/talks/2013-10-29_JAX_London/Scaling_Scala_to_the_Database.pdf)
+
 #### 2013-09-25 Scaling Scala to the Database / [JavaOne 2013](http://parleys.com/channel/5243df06e4b0d1fb3c78fe31/presentations), San Francisco, CA, USA
 
 *by Stefan Zeiger and Jan Christopher Vogt*
