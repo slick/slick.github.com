@@ -76,7 +76,7 @@ title: Documentation
 
 *by Stefan Zeiger*
 
-* Video - coming soon
+* [Video](https://www.parleys.com/tutorial/reactive-slick-database-programming)
 * [Slides (PDF)](/talks/scaladays2015sf/Reactive_Slick_for_Database_Programming.pdf)
 * [Event](http://event.scaladays.org/scaladays-sanfran-2015#!#schedulePopupExtras-6554)
 
