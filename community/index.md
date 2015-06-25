@@ -3,10 +3,13 @@ layout: doc
 title: Community
 ---
 
-## Discuss
+## Discuss & Get Help
 
-Join the [Slick / ScalaQuery group](http://groups.google.com/group/scalaquery)
-at Google Groups to discuss Slick or get help with its use. There are also tags for
+Join the [slick/slick channel](https://gitter.im/slick/slick?utm_source=share-link&utm_medium=link&utm_campaign=share-link) on Gitter for live chat about Slick.
+We also have a [Slick / ScalaQuery group](http://groups.google.com/group/scalaquery)
+at Google Groups to discuss Slick or get help with its use.
+
+You can find tags for
 [Slick](http://stackoverflow.com/questions/tagged/slick) and
 [ScalaQuery](http://stackoverflow.com/questions/tagged/scalaquery) on StackOverflow.
 
