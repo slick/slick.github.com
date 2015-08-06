@@ -3,7 +3,7 @@ layout: doc
 title: Download
 ---
 
-The current stable release is Slick 3.0.0 for Scala 2.10 (2.10.4 recommended) and Scala 2.11.
+The current stable release is Slick 3.0.1 for Scala 2.10 (2.10.4 recommended) and Scala 2.11.
 
 The easiest way to get started is with a working application in [Typesafe Activator](http://typesafe.com/activator). To 
 learn the basics of Slick start with the [Hello Slick](http://typesafe.com/activator/template/hello-slick-3.0) template. To 
@@ -22,7 +22,7 @@ For Maven projects add the following to your `<dependencies>`:
     <dependency>
         <groupId>com.typesafe.slick</groupId>
         <artifactId>slick_2.10</artifactId>
-        <version>3.0.0</version>
+        <version>3.0.1</version>
     </dependency>
 
 You can also download the JARs directly from
