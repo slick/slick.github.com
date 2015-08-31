@@ -13,6 +13,8 @@ title: Documentation
 
 * [Slick 2.0.3 Documentation](/doc/2.0.3/)
 
+* [Dash Docset Feed] (http://cvogt.org/releases/docsets/slick.typesafe.com.xml) for all recent versions
+
 #### Latest Milestone Build
 
 * [Slick 3.1.0-M2 Documentation](/doc/3.1.0-M2/)
