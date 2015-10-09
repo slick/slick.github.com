@@ -7,19 +7,13 @@ title: Documentation
 
 #### Latest Releases
 
+* [Slick 3.1.0 Documentation](/doc/3.1.0/)
+
 * [Slick 3.0.3 Documentation](/doc/3.0.3/)
 
 * [Slick 2.1.0 Documentation](/doc/2.1.0/)
 
 * [Slick 2.0.3 Documentation](/doc/2.0.3/)
-
-#### Latest Release Candidate / Milestone Builds
-
-* [Slick 3.1.0-RC3 Documentation](/doc/3.1.0-RC3/)
-* [Slick 3.1.0-RC2 Documentation](/doc/3.1.0-RC2/)
-* [Slick 3.1.0-RC1 Documentation](/doc/3.1.0-RC1/)
-* [Slick 3.1.0-M2 Documentation](/doc/3.1.0-M2/)
-* [Slick 3.1.0-M1 Documentation](/doc/3.1.0-M1/)
 
 #### Older Releases
 
@@ -39,6 +33,14 @@ title: Documentation
 * Slick 0.11.0 [Manual](/doc/0.11.0/) and [API](/doc/0.11.0/api/)
 
 <!--
+#### Latest Release Candidate / Milestone Builds
+
+* [Slick 3.1.0-RC3 Documentation](/doc/3.1.0-RC3/)
+* [Slick 3.1.0-RC2 Documentation](/doc/3.1.0-RC2/)
+* [Slick 3.1.0-RC1 Documentation](/doc/3.1.0-RC1/)
+* [Slick 3.1.0-M2 Documentation](/doc/3.1.0-M2/)
+* [Slick 3.1.0-M1 Documentation](/doc/3.1.0-M1/)
+
 * [Slick 2.0.2-RC1 Documentation](/doc/2.0.2-RC1/)
 * [Slick 2.0.2-RC1 Scaladoc](/doc/2.0.2-RC1/api/)
 
