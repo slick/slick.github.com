@@ -18,7 +18,7 @@ You can find tags for
 Please use the [issue tracker](http://github.com/slick/slick/issues) at GitHub
 to report bugs and issues.
 
-## Get Involved
+## Show Some Code
 
 Do you have an interesting use case or code sample that could help others?
 You can share it easily by contributing a
@@ -26,8 +26,8 @@ You can share it easily by contributing a
 
 ## Hack on Slick
 
-Working on the Slick codebase is easy. Simply clone the Slick git repository from
-<http://github.com/slick/slick> and get started. All you need is Java 6, git and
+Getting started with working on the Slick codebase is easy. Clone the Slick git repository
+from <http://github.com/slick/slick>. All you need is Java 8, git and
 [sbt](http://www.scala-sbt.org/) 0.13. The Slick source code has all embedded
 databases preconfigured for unit tests, so you can run a comprehensive test suite
 without any further setup.
@@ -35,6 +35,15 @@ without any further setup.
 We always welcome 3rd-pary pull requests for Slick. Note that you will have to sign the
 [Typesafe Contributor License Agreement](https://www.typesafe.com/contribute/cla)
 (takes two minutes on-line) before we can accept your contributions.
+
+## Community Process
+
+The [Community Process](/community/process) explains how decisions are made in the Slick project.
+Please take note of the [Code of Conduct](/community/conduct) as well.
+
+## Integrators
+
+tbd
 
 ## Twitter Activity <a href="http://twitter.com" style="padding-left: 0.5em"><img src="/resources/images/Twitter_logo_blue.png" style="width: 1.1em; height: 1.1em; padding: 0; margin: 0; vertical-align: text-bottom"/></a>
 <a class="twitter-timeline" data-chrome="nofooter transparent noheader" width="698" height="600" href="https://twitter.com/search?q=%23ScalaQuery+OR+%23scala-query+OR+ScalaQuery+OR+%28scala+AND+slick%29"  data-widget-id="421603285133295617">Tweets about "#ScalaQuery OR #scala-query OR ScalaQuery OR (scala AND slick)"</a>
