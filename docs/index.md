@@ -74,9 +74,13 @@ title: Documentation
 * [Slick Codegen Example](https://github.com/slick/slick-codegen-example)
 * [Slick Codegen Customization Example](https://github.com/slick/slick-codegen-customization-example)
 
+## Books
+
+[![Essential Slick book cover]({{ site.url }}/resources/images/essential-slick-cover.png)](http://underscore.io/books/essential-slick/)
 
 ## 3rd-Party Documentation
 
+* [Essential Slick](http://underscore.io/books/essential-slick/) - book designed to help developers become productive with Slick quickly.
 * [Learning Slick](https://mackler.org/LearningSlick2/) - A tutorial by Adam Mackler
 * [Blog posts / extensions](https://github.com/slick/slick/issues/478) - An unsorted list of 3rd party publications on Slick (code or text).
 
@@ -114,13 +118,13 @@ This talk describes the techniques used for the HList implementation in Slick.
 
 *by Michael Pollmeier (third-party)*
 
-* [Video](https://www.youtube.com/watch?v=ciyjJLYIySY) 
+* [Video](https://www.youtube.com/watch?v=ciyjJLYIySY)
 * [Slides (HTML)](http://www.michaelpollmeier.com/presentations/2014-09-05-slick-scaladays/#/)
 * [Event](http://scaladownunder.org/)
 
 #### 2014-06-26 Supporting your data model with Slick / [Scala Developers Barcelona](http://www.meetup.com/Scala-Developers-Barcelona/), Spain
 
-* [Video](http://www.youtube.com/watch?v=qco93tY0rYA) 
+* [Video](http://www.youtube.com/watch?v=qco93tY0rYA)
 * [Slides (PDF)](/talks/2014-06-26_Barcelona-Scala-Developers/2014-06-26_Barcelona-Scala-Developers_Supporting-your-data-model-with-Slick.pdf)
 * [Slides (Keynote)](/talks/2014-06-26_Barcelona-Scala-Developers/2014-06-26_Barcelona-Scala-Developers_Supporting-your-data-model-with-Slick.key)
 * [Event Website](http://www.meetup.com/Scala-Developers-Barcelona/events/184920892/)
