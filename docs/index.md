@@ -179,7 +179,7 @@ This talk describes the techniques used for the HList implementation in Slick.
 
 *by Stefan Zeiger*
 
-* [Video](https://typesafe.com/blog/webinar-introducing-slick-2_0)
+* [Video](https://lightbend.com/blog/webinar-introducing-slick-2_0)
 * [Slides (PDF)](/talks/2014-02-05_Webinar/Slick_2.0.pdf)
 
 #### 2014-02-03 Database Access with Slick / [Amsterdam.scala](http://www.meetup.com/amsterdam-scala/), Netherlands

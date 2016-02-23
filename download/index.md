@@ -5,10 +5,10 @@ title: Download
 
 The current stable release is Slick 3.1.1 for Scala 2.10 (2.10.4+ recommended) and Scala 2.11.
 
-The easiest way to get started is with a working application in [Typesafe Activator](http://typesafe.com/activator). To 
-learn the basics of Slick start with the [Hello Slick](http://typesafe.com/activator/template/hello-slick-3.1) template. To 
+The easiest way to get started is with a working application in [Lightbend Activator](http://lightbend.com/activator). To 
+learn the basics of Slick start with the [Hello Slick](http://lightbend.com/activator/template/hello-slick-3.1) template. To 
 learn how to integrate Slick with Play Framework check out the 
-[Play Scala Intro](http://www.typesafe.com/activator/template/play-scala-intro) template.
+[Play Scala Intro](http://www.lightbend.com/activator/template/play-scala-intro) template.
 
 To include Slick in an existing project use the library published on 
 [Maven Central](http://search.maven.org/#search|ga|1|g%3A%22com.typesafe.slick%22).   
