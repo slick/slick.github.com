@@ -12,11 +12,11 @@ The goal of this page is to increase community contribution and sense of ownersh
 
 ## Project ownership
 
-The Slick project source code is owned and licensed by [Typesafe](https://www.typesafe.com).  Though Typesafe wholly owns the Slick project and has the final say in any decisions made, Typesafe does not own the Slick community, nor does Typesafe take for granted its existence.
+The Slick project source code is owned and licensed by [Lightbend](https://www.lightbend.com).  Though Lightbend wholly owns the Slick project and has the final say in any decisions made, Lightbend does not own the Slick community, nor does Lightbend take for granted its existence.
 
-For this reason, Typesafe's relationship to the Slick project is best described as a stewardship, Typesafe manages the Slick project, but is held accountable by the Slick community.
+For this reason, Lightbend's relationship to the Slick project is best described as a stewardship, Lightbend manages the Slick project, but is held accountable by the Slick community.
 
-For a statement of how Typesafe views open source, see the [Typesafe Open Source Position Statement](https://typesafe.com/open-source-position-statement).
+For a statement of how Lightbend views open source, see the [Lightbend Open Source Position Statement](https://lightbend.com/open-source-position-statement).
 
 ## Definitions
 
@@ -67,18 +67,22 @@ Whether a pull request is merged or not depends on many factors, including:
 
 The primary place for discussion about the design of Slick and how the Slick project is run is the [Slick mailing list](http://groups.google.com/group/scalaquery).  All major new features, refactorings or changes to the project should first be discussed in this forum.  The aim of the discussions is to reach an understanding on whether the task will be done, and how it will be done.  When a new topic is posted, interested parties are encouraged to comment with their affirmation or concerns.
 
-While Typesafe ultimately has the last word on all decisions here, as much as possible we will endeavor to reach a consensus in the majority of the community.
+While Lightbend ultimately has the last word on all decisions here, as much as possible we will endeavor to reach a consensus in the majority of the community.
+
+### Releases
+
+Official releases are published by Lightbend under the `com.lightbend.slick` and `com.typesafe.slick` group IDs according to the roadmap.  After a new major version has been published, the corresponding branch should always be in a clean state that can be released as a patch release at any time.  Lightbend may also create patch releases on demand as driven by customer support demands or the Reactive Platform schedule.
 
 ## Integrator selection
 
-Integrator selection is made by Typesafe.  Typesafe will offer contributors integrator status based on the following criteria:
+Integrator selection is made by Lightbend.  Lightbend will offer contributors integrator status based on the following criteria:
 
 * The contributor has made substantial contributions to Slick.  What makes a substantial contribution is subjective, but for example, recent new integrators have been reviewing 3 or more pull requests per week, making one or more pull request per week, and triaging 3 or more issues a week.
 * The contributor is an exemplar of both Slick's [code of conduct](/community/conduct) and [contributor guidelines](https://github.com/slick/slick/blob/master/CONTRIBUTING.md).
 * The contributor is well respected by other members of the Slick community.
-* The contributor agrees to the rules set out by Typesafe below for integrators.
+* The contributor agrees to the rules set out by Lightbend below for integrators.
 
-Typesafe may also select integrators from its own staff.
+Lightbend may also select integrators from its own staff.
 
 If an integrator stops contributing regularly to Slick, their write access may be removed, though their membership in the Slick GitHub organisation will still be maintained.
 
@@ -89,6 +93,6 @@ All integrators should follow the processes outlined on this page, and should be
 * An integrator must never push directly to a repository in the GitHub organisation.  All contributions, no matter how small, must be made through pull requests.  The only exceptions to this are changes that arise from cutting a release.
 * Generally, pull requests should be made from integrators' personal forks, not from branches pushed to repositories in the Slick GitHub organisation.
 * An integrator must never merge their own pull requests.  All pull requests must be reviewed and merged by another integrator.
-* Documentation changes may be backported between releases as desired, however all other changes must by approved by Typesafe.
-* Integrators must enforce Typesafe's CLA requirements when merging pull requests.
+* Documentation changes may be backported between releases as desired, however all other changes must by approved by Lightbend.
+* Integrators must enforce Lightbend's CLA requirements when merging pull requests.
 * When closing issues or pull requests, remember that we are dealing with people.  Be kind and helpful, pointing people in the right direction.  For example, if someone raises an issue that is really a question, when closing the issue, direct them to the mailing list, providing a link to the mailing list, and if possible, a brief answer to the question.
