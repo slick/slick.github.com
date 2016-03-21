@@ -74,15 +74,39 @@ title: Documentation
 * [Slick Codegen Example](https://github.com/slick/slick-codegen-example)
 * [Slick Codegen Customization Example](https://github.com/slick/slick-codegen-customization-example)
 
+## Extensions
+
+The official Play plugin for Slick:
+
+- [Github project](https://github.com/playframework/play-slick)
+- [Wiki](https://github.com/playframework/play-slick/wiki)
+
+## Third-party Extensions
+
+This is a list of third-party Slick extension projects we know of.
+We cannot guarantee for the quality or that they represent our view of things.
+Please add more projects to the list using a github pull request, if you think others can benefit from them. 
+
+- [Slick Joda Date mapper](https://github.com/tototoshi/slick-joda-mapper) - Enables you to use joda-time with Slick. You can persist DateTime, Instant, LocalDateTime, LocalDate, LocalTime, DateTimeZone with Slick.
+
+- [Slick Postgres extensions](https://github.com/tminglei/slick-pg) - Slick extensions for PostgreSQL, to support a series of pg data types and related operators/functions.
+
+- [Generic DAO for Slick projects](https://github.com/rcavalcanti/slick-dao) - Slick extensions for record lifecycle management.
+
 ## Books
 
 [![Essential Slick book cover]({{ site.url }}/resources/images/essential-slick-cover.png)](http://underscore.io/books/essential-slick/)
 
 ## 3rd-Party Documentation
 
-* [Essential Slick](http://underscore.io/books/essential-slick/) - book designed to help developers become productive with Slick quickly.
-* [Learning Slick](https://mackler.org/LearningSlick2/) - A tutorial by Adam Mackler
-* [Blog posts / extensions](https://github.com/slick/slick/issues/478) - An unsorted list of 3rd party publications on Slick (code or text).
+The following contains a list of Slick related third-party blog articles and documentation we know of:
+
+* [Slick 3](third-party-slick-3)
+* [Slick 2](third-party-slick-2)
+* [Slick 1](third-party-slick-1)
+
+We cannot guarantee for the quality of the above, or that they represent our view of things.
+Please add more entries using a github pull request, if they can teach people something about Slick.
 
 ## Screencasts
 
