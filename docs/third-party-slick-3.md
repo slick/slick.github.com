@@ -38,4 +38,4 @@ and on [Stackoverflow](http://stackoverflow.com/questions/tagged/slick).
 
 - [Happy Melly Teller](https://github.com/happymelly/teller) - Happy Melly Teller is a web system which supports Happy Melly's ecosystem and perfectly suits for any business or non-profit organization with similar network structure.  The platform allows to manage information about people, organizations, brands, licensees and so on. It also provides REST API for retrieving these objects from third-party apps and websites.
 
-
+- [play-slick-3.0](https://github.com/wsargent/play-slick-3.0) - Slick with Flyways database migration, custom PostgresSQL driver, and Slick code generation integrated as an SBT plugin.
