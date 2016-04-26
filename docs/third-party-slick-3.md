@@ -24,6 +24,8 @@ and on [Stackoverflow](http://stackoverflow.com/questions/tagged/slick).
 
 - [Developing JSON REST API using Play and Slick](http://olivebh.com/scala-play-slick.html).
 
+- [Put Your Writes Where Your Master Is: Compile-time Restriction of Slick Effect Types](http://danielwestheide.com/blog/2015/06/28/put-your-writes-where-your-master-is-compile-time-restriction-of-slick-effect-types.html)
+
 ## Plugins
 
 - [Slick Code Generation Plugin](https://github.com/muuki88/sbt-slick) - This plugin allows you to easily generate slick Table schemas. Take a look at the test-project for example configurations.
@@ -42,3 +44,5 @@ and on [Stackoverflow](http://stackoverflow.com/questions/tagged/slick).
 - [play-slick-3.0](https://github.com/wsargent/play-slick-3.0) - Slick with Flyways database migration, custom PostgresSQL driver, and Slick code generation integrated as an SBT plugin.
 
 - [Developing JSON REST API using Play and Slick](https://github.com/olivebh/play-slick).
+
+- [Slick Effect Types](https://github.com/dwestheide/slick-effect-types) - A simple demo project showcasing how to prevent you from running write actions against your slave database, at compile time.
