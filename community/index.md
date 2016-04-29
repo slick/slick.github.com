@@ -22,7 +22,7 @@ to report bugs and issues.
 
 Do you have an interesting use case or code sample that could help others?
 You can share it easily by contributing a
-[Typesafe Activator Template](http://typesafe.com/activator/template/contribute)
+[Lightbend Activator Template](http://lightbend.com/activator/template/contribute)
 
 ## Hack on Slick
 
@@ -33,7 +33,7 @@ databases preconfigured for unit tests, so you can run a comprehensive test suit
 without any further setup.
 
 We always welcome 3rd-pary pull requests for Slick. Note that you will have to sign the
-[Typesafe Contributor License Agreement](https://www.typesafe.com/contribute/cla)
+[Lightbend Contributor License Agreement](https://www.lightbend.com/contribute/cla)
 (takes two minutes on-line) before we can accept your contributions.
 
 ## Community Process
