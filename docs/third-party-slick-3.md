@@ -33,6 +33,8 @@ and on [Stackoverflow](http://stackoverflow.com/questions/tagged/slick).
 
 ## Example projects
 
+- [Template Site](https://template-site.tetrao.eu/) ( [GitHub](https://github.com/tetrao-eu/template-site) ) - Skeleton of a web application based on Scala, SBT, Play Framework, Play2-auth, PostgreSQL, Slick, Slick-pg and Foundation
+
 - [Getting Started: Scala SQL DB access using Slick + PostgreSQL or MySQL](https://gist.github.com/timcharper/037fb54fd788d42ad94f) - This repository contains demo code for connecting to a SQL database using the Slick FRM.
 
 - [slick-generic-dao-example](https://github.com/voidcontext/slick-generic-dao-example) - Generic DAO example implementation for Slick 3.0.
