@@ -26,9 +26,11 @@ and on [Stackoverflow](http://stackoverflow.com/questions/tagged/slick).
 
 - [Put Your Writes Where Your Master Is: Compile-time Restriction of Slick Effect Types](http://danielwestheide.com/blog/2015/06/28/put-your-writes-where-your-master-is-compile-time-restriction-of-slick-effect-types.html)
 
-## Plugins
+## Libraries and sbt plugins
 
 - [Slick Code Generation Plugin](https://github.com/muuki88/sbt-slick) - This plugin allows you to easily generate slick Table schemas. Take a look at the test-project for example configurations.
+
+- [Using shapeless's HList](https://github.com/underscoreio/slickless) - The [shapeless](https://github.com/milessabin/shapeless) library includes an alternative to the built-in Slick HList implementation. A Slick "shape" for the shapeless HList is provide by [slickless](https://github.com/underscoreio/slickless), meaning you can use shapeless's HList in your Slick table definitions.
 
 
 ## Example projects
