@@ -5,34 +5,16 @@ title: Documentation
 
 ## Slick Documentation
 
-#### Latest Releases
+#### Releases
 
-* [Slick 3.1.1 Documentation](/doc/3.1.1/)
+Latest: [3.1.1](/doc/3.1.1/)
 
-* [Slick 3.0.3 Documentation](/doc/3.0.3/)
-
-* [Slick 2.1.0 Documentation](/doc/2.1.0/)
-
-* [Slick 2.0.3 Documentation](/doc/2.0.3/)
-
-#### Older Releases
-
-* [Slick 3.1.0 Documentation](/doc/3.1.0/)
-
-* [Slick 3.0.2 Documentation](/doc/3.0.2/)
-* [Slick 3.0.1 Documentation](/doc/3.0.1/)
-* [Slick 3.0.0 Documentation](/doc/3.0.0/)
-
-* [Slick 2.0.2 Documentation](/doc/2.0.2/)
-* [Slick 2.0.1 Documentation](/doc/2.0.1/)
-* [Slick 2.0.0 Documentation](/doc/2.0.0/)
-
-* Slick 1.0.1 [Manual](/doc/1.0.1/) and [API](/doc/1.0.1/api/)
-* Slick 1.0.0 [Manual](/doc/1.0.0/) and [API](/doc/1.0.0/api/)
-
-* Slick 0.11.2 [Manual](/doc/0.11.2/) and [API](/doc/0.11.2/api/)
-* Slick 0.11.1 [Manual](/doc/0.11.1/) and [API](/doc/0.11.1/api/)
-* Slick 0.11.0 [Manual](/doc/0.11.0/) and [API](/doc/0.11.0/api/)
+* [3.1.1](/doc/3.1.1/) &#124; [3.1.0](/doc/3.1.0/) &#124; [3.0.2](/doc/3.0.2/) &#124; [3.0.1](/doc/3.0.1/) &#124; [3.0.0](/doc/3.0.0/)
+* [3.0.3](/doc/3.0.3/)
+* [2.1.0](/doc/2.1.0/)
+* [2.0.3](/doc/2.0.3/) &#124; [2.0.2](/doc/2.0.2/) &#124; [2.0.1](/doc/2.0.1/) &#124; [2.0.0](/doc/2.0.0/)
+* 1.0.1 [Manual](/doc/1.0.1/) and [API](/doc/1.0.1/api/) &#124; 1.0.0 [Manual](/doc/1.0.0/) and [API](/doc/1.0.0/api/)
+* 0.11.2 [Manual](/doc/0.11.2/) and [API](/doc/0.11.2/api/) &#124; 0.11.1 [Manual](/doc/0.11.1/) and [API](/doc/0.11.1/api/) &#124; 0.11.0 [Manual](/doc/0.11.0/) and [API](/doc/0.11.0/api/)
 
 <!--
 #### Latest Release Candidate / Milestone Builds
@@ -70,9 +52,26 @@ title: Documentation
 
 ## Sample Code
 
+Look at the branches / tags for specific versions.
+
 * [Slick Activator Templates](https://github.com/typesafehub/?query=activator-slick)
 * [Slick Codegen Example](https://github.com/slick/slick-codegen-example)
 * [Slick Codegen Customization Example](https://github.com/slick/slick-codegen-customization-example)
+
+## 3rd-Party Documentation
+
+The following contains a list of Slick related third-party blog articles and documentation we know of:
+
+* [Slick 3](third-party-slick-3)
+* [Slick 2](third-party-slick-2)
+* [Slick 1](third-party-slick-1)
+
+We cannot guarantee for the quality of the above, or that they represent our view of things.
+Please add more entries using a github pull request, if they can teach people something about Slick.
+
+## Books
+
+<a href="http://underscore.io/books/essential-slick/"><img src="{{ site.url }}/resources/images/essential-slick-cover.png" alt="Essential Slick book cover" title="Essential Slick book cover" height="100" /></a>
 
 ## Extensions
 
@@ -92,21 +91,6 @@ Please add more projects to the list using a github pull request, if you think o
 - [Slick Postgres extensions](https://github.com/tminglei/slick-pg) - Slick extensions for PostgreSQL, to support a series of pg data types and related operators/functions.
 
 - [Generic DAO for Slick projects](https://github.com/rcavalcanti/slick-dao) - Slick extensions for record lifecycle management.
-
-## Books
-
-[![Essential Slick book cover]({{ site.url }}/resources/images/essential-slick-cover.png)](http://underscore.io/books/essential-slick/)
-
-## 3rd-Party Documentation
-
-The following contains a list of Slick related third-party blog articles and documentation we know of:
-
-* [Slick 3](third-party-slick-3)
-* [Slick 2](third-party-slick-2)
-* [Slick 1](third-party-slick-1)
-
-We cannot guarantee for the quality of the above, or that they represent our view of things.
-Please add more entries using a github pull request, if they can teach people something about Slick.
 
 ## Screencasts
 
