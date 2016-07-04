@@ -9,16 +9,18 @@ title: Documentation
 
 Latest: [3.1.1](/doc/3.1.1/)
 
-* [3.1.1](/doc/3.1.1/) &#124; [3.1.0](/doc/3.1.0/) &#124; [3.0.2](/doc/3.0.2/) &#124; [3.0.1](/doc/3.0.1/) &#124; [3.0.0](/doc/3.0.0/)
-* [3.0.3](/doc/3.0.3/)
+* [3.1.1](/doc/3.1.1/) &#124; [3.1.0](/doc/3.1.0/)
+* [3.0.3](/doc/3.0.3/) &#124; [3.0.2](/doc/3.0.2/) &#124; [3.0.1](/doc/3.0.1/) &#124; [3.0.0](/doc/3.0.0/)
 * [2.1.0](/doc/2.1.0/)
 * [2.0.3](/doc/2.0.3/) &#124; [2.0.2](/doc/2.0.2/) &#124; [2.0.1](/doc/2.0.1/) &#124; [2.0.0](/doc/2.0.0/)
 * 1.0.1 [Manual](/doc/1.0.1/) and [API](/doc/1.0.1/api/) &#124; 1.0.0 [Manual](/doc/1.0.0/) and [API](/doc/1.0.0/api/)
 * 0.11.2 [Manual](/doc/0.11.2/) and [API](/doc/0.11.2/api/) &#124; 0.11.1 [Manual](/doc/0.11.1/) and [API](/doc/0.11.1/api/) &#124; 0.11.0 [Manual](/doc/0.11.0/) and [API](/doc/0.11.0/api/)
 
-<!--
 #### Latest Release Candidate / Milestone Builds
 
+* [3.2.0-M1](/doc/3.2.0-M1/)
+
+<!--
 * [Slick 3.1.0-RC3 Documentation](/doc/3.1.0-RC3/)
 * [Slick 3.1.0-RC2 Documentation](/doc/3.1.0-RC2/)
 * [Slick 3.1.0-RC1 Documentation](/doc/3.1.0-RC1/)
