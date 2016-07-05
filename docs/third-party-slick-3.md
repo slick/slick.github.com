@@ -18,6 +18,15 @@ and on [Stackoverflow](http://stackoverflow.com/questions/tagged/slick).
 
 - [Essential Slick](http://underscore.io/books/essential-slick/) - book designed to help developers become productive with Slick quickly.
 
+## Courses
+
+- [Scalanator](https://www.scalanator.io/courses) is a new browser-based training service.
+It contains a free introduction to Slick.
+N.b. the course and service are under development by the Scalanator team.
+
+- [Essential Slick](http://underscore.io/training/courses/essential-slick/) is a commercial training course.
+The course description page contains a free recording created for the hands-on workshop held at Scala Exchange in 2015.
+
 ## Articles
 
 - [Common Model Fields With Slick 3 (Part I)](http://gavinschulz.com/posts/2016-01-30-common-model-fields-with-slick-3-part-i.html).
