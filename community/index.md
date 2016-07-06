@@ -52,7 +52,8 @@ Slick is being developed by open source contributors and industry sponsors.
 
 Lightbend permanently sponsors Slick's development and integration with other libraries.
 
-<img src="https://cloud.githubusercontent.com/assets/274947/16626417/c6b8e288-4376-11e6-8651-85bbdb318816.png" height="50" alt="Lightbend" />
+<a href="http://lightbend.com/">
+<img src="https://cloud.githubusercontent.com/assets/274947/16626417/c6b8e288-4376-11e6-8651-85bbdb318816.png" height="50" alt="Lightbend" /></a>
 
 ### Summer project sponsors
 
