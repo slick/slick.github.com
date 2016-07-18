@@ -44,13 +44,22 @@ Please take note of the [Code of Conduct](/community/conduct) as well.
 ## Maintainers
 
 The current maintainers of Slick are:
-- [Ashutosh Agarwal](https://github.com/Radsaggi)
-- [Pawel Batko](https://github.com/pbatko)
-- [Sue Carter](https://github.com/smootoo)
-- [Richard Dallaway](https://github.com/d6y)
-- [Minglei Tu](https://github.com/tminglei)
-- [Christopher Vogt](https://github.com/cvogt)
-- [Stefan Zeiger](https://github.com/szeiger)
+[Ashutosh Agarwal](https://github.com/Radsaggi), [Pawel Batko](https://github.com/pbatko), [Sue Carter](https://github.com/smootoo), [Richard Dallaway](https://github.com/d6y), [Minglei Tu](https://github.com/tminglei), [Christopher Vogt](https://github.com/cvogt), [Stefan Zeiger](https://github.com/szeiger)
+
+## Sponsors
+
+Slick is being developed by open source contributors and industry sponsors.
+
+Lightbend permanently sponsors Slick's development and integration with other libraries.
+
+<a href="http://lightbend.com/">
+<img src="https://cloud.githubusercontent.com/assets/274947/16626417/c6b8e288-4376-11e6-8651-85bbdb318816.png" height="50" alt="Lightbend" /></a>
+
+### Summer project sponsors
+
+Software Mill sponsored a 2016 Summer project to improve the code generator and fix bugs by [Trevor Sibanda](https://twitter.com/trevorsibb).
+
+<a href="https://softwaremill.com/"><img src="https://cloud.githubusercontent.com/assets/274947/16626348/76b7ba34-4376-11e6-820e-269a772d1339.png" height="20" alt="Software Mill" /></a> 
 
 ## Twitter Activity <a href="http://twitter.com" style="padding-left: 0.5em"><img src="/resources/images/Twitter_logo_blue.png" style="width: 1.1em; height: 1.1em; padding: 0; margin: 0; vertical-align: text-bottom"/></a>
 <a class="twitter-timeline" data-chrome="nofooter transparent noheader" width="698" height="600" href="https://twitter.com/search?q=%23ScalaQuery+OR+%23scala-query+OR+ScalaQuery+OR+%28scala+AND+slick%29"  data-widget-id="421603285133295617">Tweets about "#ScalaQuery OR #scala-query OR ScalaQuery OR (scala AND slick)"</a>
