@@ -35,6 +35,8 @@ The course description page contains a free recording created for the hands-on w
 
 - [Put Your Writes Where Your Master Is: Compile-time Restriction of Slick Effect Types](http://danielwestheide.com/blog/2015/06/28/put-your-writes-where-your-master-is-compile-time-restriction-of-slick-effect-types.html)
 
+- [Environment-dependent database drivers](http://leaks.wanari.com/2016/08/17/enviroment-dependent-database-drivers-slick/)
+
 ## Libraries and sbt plugins
 
 - [Slick Code Generation Plugin](https://github.com/muuki88/sbt-slick) - This plugin allows you to easily generate slick Table schemas. Take a look at the test-project for example configurations.
