@@ -12,7 +12,7 @@ and on [Stackoverflow](http://stackoverflow.com/questions/tagged/slick).
 
 ## Third-party translations
 
-- [日本の / Japanese](https://github.com/krrrr38/slick-doc-ja)
+- [日本語 / Japanese](https://github.com/krrrr38/slick-doc-ja)
 
 ## Books
 
