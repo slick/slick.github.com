@@ -12,7 +12,7 @@ and on [Stackoverflow](http://stackoverflow.com/questions/tagged/slick).
 
 ## Third-party translations
 
-- [日本の / Japanese](https://github.com/krrrr38/slick-doc-ja)
+- [日本語 / Japanese](https://github.com/krrrr38/slick-doc-ja)
 
 ## Books
 
@@ -40,6 +40,8 @@ The course description page contains a free recording created for the hands-on w
 ## Libraries and sbt plugins
 
 - [Slick Code Generation SBT Plugin](https://github.com/muuki88/sbt-slick) - This plugin allows you to easily generate slick Table schemas. Take a look at the test-project for example configurations.
+
+- [Slick cats](https://github.com/RMSone/slick-cats) Many cats type class instances for Slick's DBIO.
 
 - [Using shapeless's HList](https://github.com/underscoreio/slickless) - The [shapeless](https://github.com/milessabin/shapeless) library includes an alternative to the built-in Slick HList implementation. A Slick "shape" for the shapeless HList is provide by [slickless](https://github.com/underscoreio/slickless), meaning you can use shapeless's HList in your Slick table definitions.
 
