@@ -39,12 +39,13 @@ The course description page contains a free recording created for the hands-on w
 
 ## Libraries and sbt plugins
 
-- [Slick cats](https://github.com/RMSone/slick-cats) Many cats type class instances for Slick'S DBIO
+- [Slick Code Generation SBT Plugin](https://github.com/muuki88/sbt-slick) - This plugin allows you to easily generate slick Table schemas. Take a look at the test-project for example configurations.
 
-- [Slick Code Generation Plugin](https://github.com/muuki88/sbt-slick) - This plugin allows you to easily generate slick Table schemas. Take a look at the test-project for example configurations.
+- [Slick cats](https://github.com/RMSone/slick-cats) Many cats type class instances for Slick's DBIO.
 
 - [Using shapeless's HList](https://github.com/underscoreio/slickless) - The [shapeless](https://github.com/milessabin/shapeless) library includes an alternative to the built-in Slick HList implementation. A Slick "shape" for the shapeless HList is provide by [slickless](https://github.com/underscoreio/slickless), meaning you can use shapeless's HList in your Slick table definitions.
 
+- [Flexible updates](https://github.com/scalax/hf)
 
 ## Example projects
 
