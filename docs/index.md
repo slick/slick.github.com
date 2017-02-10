@@ -18,6 +18,7 @@ Latest: [3.1.1](/doc/3.1.1/)
 
 #### Latest Release Candidate / Milestone Builds
 
+* [3.2.0-RC1](/doc/3.2.0-RC1/)
 * [3.2.0-M2](/doc/3.2.0-M2/)
 * [3.2.0-M1](/doc/3.2.0-M1/)
 
