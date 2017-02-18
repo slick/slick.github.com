@@ -64,3 +64,5 @@ The course description page contains a free recording created for the hands-on w
 - [Developing JSON REST API using Play and Slick](https://github.com/olivebh/play-slick).
 
 - [Slick Effect Types](https://github.com/dwestheide/slick-effect-types) - A simple demo project showcasing how to prevent you from running write actions against your slave database, at compile time.
+
+- [Slick multi-database demo](https://github.com/lashchenko/demo-scala-multidb-slick-guice) - Demo of Scala Slick 3.1 for multi-database with dependency injection through Guice and async tests.
