@@ -103,6 +103,15 @@ Please add more projects to the list using a github pull request, if you think o
 
 ## Talks
 
+#### 2016-05-10 Polymorphic Record Types in a Lifted Embedding / [Scaladays](http://event.scaladays.org/scaladays-nyc-2016), New York
+
+*by Stefan Zeiger*
+
+* [Video](https://www.youtube.com/watch?v=tS6N5AaZTLA)
+* [Event](http://event.scaladays.org/scaladays-nyc-2016#!#schedulePopupExtras-7546)
+* [Slides (PDF)](/talks/scaladays2016/Polymorphic_Record_Types_in_a_Lifted_Embedding_-_ScalaDays_NYC_2016.pdf)
+
+
 #### 2015-03-18 Reactive Slick for Database Programming / [ScalaDays](http://event.scaladays.org/scaladays-sanfran-2015), San Francisco, CA
 
 *by Stefan Zeiger*
