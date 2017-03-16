@@ -116,7 +116,7 @@ Please add more projects to the list using a github pull request, if you think o
 
 *by Stefan Zeiger*
 
-* [Video](https://www.parleys.com/tutorial/reactive-slick-database-programming)
+* [Video](https://www.youtube.com/watch?v=WvxXz7aklik)
 * [Slides (PDF)](/talks/scaladays2015sf/Reactive_Slick_for_Database_Programming.pdf)
 * [Event](http://event.scaladays.org/scaladays-sanfran-2015#!#schedulePopupExtras-6554)
 
@@ -155,7 +155,7 @@ This talk describes the techniques used for the HList implementation in Slick.
 
 #### 2014-06-18 Leveraging your data model with Slick 2 - code generation and other features / [Scala Days 2014](http://www.scaladays.org/), Berlin, Germany
 
-* [Video](http://www.parleys.com/play/53a7d2cce4b0543940d9e55e/)
+* [Video](https://www.youtube.com/watch?v=8FoE5EnbOzM)
 * [Slides (PDF)](/talks/2014-06-18_ScalaDays2014/2014-06-18_Scala-Days-2014_Levering-your-data-model-code-generation-and-beyond.pdf)
 * [Slides (Keynote)](/talks/2014-06-18_ScalaDays2014/2014-06-18_Scala-Days-2014_Levering-your-data-model-code-generation-and-beyond.key)
 * [Code](https://github.com/slick/play-slick-codegen)
@@ -167,7 +167,7 @@ This talk describes the techniques used for the HList implementation in Slick.
 
 *by Renato Cavalcanti (third-party)*
 
-* [Video](http://www.parleys.com/play/53a7d2c6e4b0543940d9e54c/)
+* [Video](https://www.youtube.com/watch?v=zqt2IdThJXA)
 * [Event Website](http://www.scaladays.org/#schedule/Slick-in-the-field--learning-to-forget-ORM)
 
 #### 2014-06-09 Functional Relational Mapping with Slick / [33rd Degree](http://2014.33degree.org/), Krakow, Poland
@@ -244,7 +244,7 @@ This talk describes the techniques used for the HList implementation in Slick.
 
 *by Stefan Zeiger and Jan Christopher Vogt*
 
-* [Video](http://parleys.com/play/524fd2a2e4b0a43ac12123cc)
+* [Video](https://www.youtube.com/watch?v=eq3V0VWKpDA)
 * [Live Code Example](https://github.com/cvogt/slick-presentation/tree/javaone-2013)
 * [Slides (PDF)](/talks/2013-09-25_JavaOne/2013-09-25_JavaOne-Scaling-Scala-to-the-Database.pdf)
 * [Slides (Powerpoint)](/talks/2013-09-25_JavaOne/2013-09-25_JavaOne-Scaling-Scala-to-the-Database.pptx)
@@ -263,7 +263,7 @@ This talk describes the techniques used for the HList implementation in Slick.
 
 *by Stefan Zeiger*
 
-* [Video](http://parleys.com/play/52076d7fe4b0f42506c2a3e8/)
+* [Video](https://www.youtube.com/watch?v=BDVpvneFNeI)
 * [Slides (PDF)](/talks/scalapeno2013/slick_scalapeno2013.pdf)
 
 #### 2013-06-12 Slick vs ORM / [ScalaDays 2013](http://scaladays.org/ny2013/), London, UK
