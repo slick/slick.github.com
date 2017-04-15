@@ -38,6 +38,7 @@ The course description page contains a free recording created for the hands-on w
 - [Environment-dependent database drivers](http://leaks.wanari.com/2016/08/17/enviroment-dependent-database-drivers-slick/)
 
 ## Libraries and sbt plugins
+- [blocking-slick ](https://github.com/takezoe/blocking-slick) Provides Slick2 compatible blocking API for Slick3.
 
 - [Slick Code Generation SBT Plugin](https://github.com/muuki88/sbt-slick) - This plugin allows you to easily generate slick Table schemas. Take a look at the test-project for example configurations.
 
