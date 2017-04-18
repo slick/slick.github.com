@@ -56,7 +56,7 @@ The course description page contains a free recording created for the hands-on w
 
 - [slick-generic-dao-example](https://github.com/voidcontext/slick-generic-dao-example) - Generic DAO example implementation for Slick 3.0.
 
-- [slick-for-production](slick-for-production).
+- [slick-for-production](https://github.com/satendrakumar/slick-for-production).
 
 - [Happy Melly Teller](https://github.com/happymelly/teller) - Happy Melly Teller is a web system which supports Happy Melly's ecosystem and perfectly suits for any business or non-profit organization with similar network structure.  The platform allows to manage information about people, organizations, brands, licensees and so on. It also provides REST API for retrieving these objects from third-party apps and websites.
 
