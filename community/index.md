@@ -44,7 +44,7 @@ Please take note of the [Code of Conduct](/community/conduct) as well.
 ## Maintainers
 
 The current maintainers of Slick are:
-[Ashutosh Agarwal](https://github.com/Radsaggi), [Pawel Batko](https://github.com/pbatko), [Sue Carter](https://github.com/smootoo), [Richard Dallaway](https://github.com/d6y), [Minglei Tu](https://github.com/tminglei), [Christopher Vogt](https://github.com/cvogt), [Stefan Zeiger](https://github.com/szeiger)
+[Ashutosh Agarwal](https://github.com/Radsaggi), [Pawel Batko](https://github.com/pbatko), [Sue Carter](https://github.com/smootoo), [Richard Dallaway](https://github.com/d6y), [Minglei Tu](https://github.com/tminglei), [Trevor Sibanda](https://github.com/trevorsibanda), [Christopher Vogt](https://github.com/cvogt), [Stefan Zeiger](https://github.com/szeiger)
 
 ## Sponsors
 
