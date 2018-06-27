@@ -103,6 +103,12 @@ Please add more projects to the list using a github pull request, if you think o
 
 ## Talks
 
+#### 2017-12-14 Compiling Collections to SQL with Slick / [Scala eXchange 2017](https://skillsmatter.com/skillscasts/11210-compiling-collections-to-sql-with-slick#video), London
+
+*by Stefan Zeiger*
+
+* [Video](https://skillsmatter.com/skillscasts/11210-compiling-collections-to-sql-with-slick#video)
+
 #### 2016-05-10 Polymorphic Record Types in a Lifted Embedding / [Scaladays](http://event.scaladays.org/scaladays-nyc-2016), New York
 
 *by Stefan Zeiger*
