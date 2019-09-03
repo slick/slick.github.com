@@ -78,7 +78,7 @@ Official releases are published by Lightbend under the `com.lightbend.slick` and
 Maintainer selection is made by Lightbend.  Lightbend will offer contributors maintainer status based on the following criteria:
 
 * The contributor has made substantial contributions to Slick.  What makes a substantial contribution is subjective, but for example, recent new maintainers have been reviewing 3 or more pull requests per week, making one or more pull request per week, and triaging 3 or more issues a week.
-* The contributor is an exemplar of both Slick's [code of conduct](/community/conduct) and [contributor guidelines](https://github.com/slick/slick/blob/master/CONTRIBUTING.md).
+* The contributor is an exemplar of both Slick's [code of conduct](https://www.lightbend.com/conduct) and [contributor guidelines](https://github.com/slick/slick/blob/master/CONTRIBUTING.md).
 * The contributor is well respected by other members of the Slick community.
 * The contributor agrees to the rules set out by Lightbend below for maintainers.
 
@@ -88,7 +88,7 @@ If an maintainer stops contributing regularly to Slick, their write access may b
 
 ## Rules for maintainers
 
-All maintainers should follow the processes outlined on this page, and should be an example to follow with regards to Slick's [code of conduct](/community/conduct) and [contributor guidelines](https://github.com/slick/slick/blob/master/CONTRIBUTING.md).  There are also a few specific rules, outlined below:
+All maintainers should follow the processes outlined on this page, and should be an example to follow with regards to Slick's [code of conduct](https://www.lightbend.com/conduct) and [contributor guidelines](https://github.com/slick/slick/blob/master/CONTRIBUTING.md).  There are also a few specific rules, outlined below:
 
 * A maintainer must never push directly to a repository in the GitHub organisation.  All contributions, no matter how small, must be made through pull requests.  The only exceptions to this are changes that arise from cutting a release.
 * Generally, pull requests should be made from maintainers' personal forks, not from branches pushed to repositories in the Slick GitHub organisation.

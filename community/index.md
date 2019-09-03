@@ -39,7 +39,7 @@ We always welcome 3rd-pary pull requests for Slick. Note that you will have to s
 ## Community Process
 
 The [Community Process](/community/process) explains how decisions are made in the Slick project.
-Please take note of the [Code of Conduct](/community/conduct) as well.
+Please take note of the [Code of Conduct](https://www.lightbend.com/conduct) as well.
 
 ## Maintainers
 
@@ -59,7 +59,7 @@ Lightbend permanently sponsors Slick's development and integration with other li
 
 Software Mill sponsored a 2016 Summer project to improve the code generator and fix bugs by [Trevor Sibanda](https://twitter.com/trevorsibb).
 
-<a href="https://softwaremill.com/"><img src="https://cloud.githubusercontent.com/assets/274947/16626348/76b7ba34-4376-11e6-820e-269a772d1339.png" width="200" alt="Software Mill" /></a> 
+<a href="https://softwaremill.com/"><img src="https://cloud.githubusercontent.com/assets/274947/16626348/76b7ba34-4376-11e6-820e-269a772d1339.png" width="200" alt="Software Mill" /></a>
 
 ## Twitter Activity <a href="http://twitter.com" style="padding-left: 0.5em"><img src="/resources/images/Twitter_logo_blue.png" style="width: 1.1em; height: 1.1em; padding: 0; margin: 0; vertical-align: text-bottom"/></a>
 <a class="twitter-timeline" data-chrome="nofooter transparent noheader" width="698" height="600" href="https://twitter.com/search?q=%23ScalaQuery+OR+%23scala-query+OR+ScalaQuery+OR+%28scala+AND+slick%29"  data-widget-id="421603285133295617">Tweets about "#ScalaQuery OR #scala-query OR ScalaQuery OR (scala AND slick)"</a>
