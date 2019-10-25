@@ -26,9 +26,9 @@ Install Jekyll using the gem package manager:
 
 ## Building & Viewing ##
 
-Launch the Jekyll server with auto-regeneration and an overwritten baseurl (so that it doesn't use the one from `_config.yml`):
+Launch the Jekyll server with auto-regeneration
 
-    jekyll serve --watch --baseurl ''
+    jekyll serve --watch
 
 The generated site is available at `http://localhost:4000`
 

@@ -1,6 +1,5 @@
 title: "Slick"
 description: "Scala Language-Integrated Connection Kit"
-baseurl: "http://slick.lightbend.com"
 markdown: kramdown
 
 exclude:
