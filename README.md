@@ -1,6 +1,6 @@
 # Slick Website #
 
-This repository contains the source for the Slick website.
+This repository contains the source for the [Slick website](https://scala-slick.org).
 
 ## Dependencies ##
 
