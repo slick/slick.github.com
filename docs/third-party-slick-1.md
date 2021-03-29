@@ -7,8 +7,8 @@ This is a list of Slick 1 related third-party blog articles and documentation we
 We cannot guarantee for the quality or that they represent our view of things.
 Please add more entries using a github pull request, if they can teach people something about Slick.
 
-Many useful discussions can also be found in the [Slick google group](https://groups.google.com/forum/#!forum/scalaquery)
-and on [Stackoverflow](http://stackoverflow.com/questions/tagged/slick).
+Many useful discussions can also be found at [Slick Discussions](https://github.com/slick/slick/discussions)
+and on [Stack Overflow](http://stackoverflow.com/questions/tagged/slick).
 
 ## Typesafe / EPFL gists
 

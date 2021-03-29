@@ -5,10 +5,10 @@ title: 3rd-Party Documentation for Slick 3
 
 This is a list of Slick 3 related third-party blog articles and documentation we know of.
 We cannot guarantee for the quality or that they represent our view of things.
-Please add more entries using a github pull request, if they can teach people something about Slick.
+Please add more entries using a GitHub pull request, if they can teach people something about Slick.
 
-Many useful discussions can also be found in the [Slick google group](https://groups.google.com/forum/#!forum/scalaquery)
-and on [Stackoverflow](http://stackoverflow.com/questions/tagged/slick).
+Many useful discussions can also be found at [Slick Discussions](https://github.com/slick/slick/discussions)
+and on [Stack Overflow](http://stackoverflow.com/questions/tagged/slick).
 
 ## Third-party translations
 

@@ -5,9 +5,12 @@ title: Community
 
 ## Discuss & Get Help
 
-Join the [slick/slick channel](https://gitter.im/slick/slick?utm_source=share-link&utm_medium=link&utm_campaign=share-link) on Gitter for live chat about Slick.
-We also have a [Slick group](http://groups.google.com/group/scalaquery)
-at Google Groups to discuss Slick or get help with its use.
+[Slick Discussions](https://github.com/slick/slick/discussions) is a
+place to discuss Slick or seek help from other Slick users.
+(There is also an [archive](https://groups.google.com/g/scalaquery)
+of older questions and discussion.)
+
+You might also join the [slick/slick channel](https://gitter.im/slick/slick?utm_source=share-link&utm_medium=link&utm_campaign=share-link) on Gitter for live chat about Slick.
 
 You can find tags for
 [Slick](http://stackoverflow.com/questions/tagged/slick) (and

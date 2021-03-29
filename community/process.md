@@ -65,7 +65,7 @@ Whether a pull request is merged or not depends on many factors, including:
 
 ### Design and house keeping decisions
 
-The primary place for discussion about the design of Slick and how the Slick project is run is the [Slick mailing list](http://groups.google.com/group/scalaquery).  All major new features, refactorings or changes to the project should first be discussed in this forum.  The aim of the discussions is to reach an understanding on whether the task will be done, and how it will be done.  When a new topic is posted, interested parties are encouraged to comment with their affirmation or concerns.
+The primary place for discussion about the design of Slick and how the Slick project is run is the Slick repo itself, using issues, pull requests, and the new "Discussions" feature.  All major new features, refactorings or changes to the project should first be discussed in this forum.  The aim of the discussions is to reach an understanding on whether the task will be done, and how it will be done.  When a new topic is posted, interested parties are encouraged to comment with their affirmation or concerns.
 
 While Lightbend ultimately has the last word on all decisions here, as much as possible we will endeavor to reach a consensus in the majority of the community.
 
