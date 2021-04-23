@@ -60,7 +60,6 @@ Latest: [3.3.3](/doc/3.3.3/)
 
 Look at the branches / tags for specific versions.
 
-* [Slick Activator Templates](https://github.com/typesafehub?q=activator-slick)
 * [Slick Codegen Example](https://github.com/slick/slick-codegen-example)
 * [Slick Codegen Customization Example](https://github.com/slick/slick-codegen-customization-example)
 
