@@ -18,8 +18,11 @@ Latest: [3.3.3](/doc/3.3.3/)
 * 1.0.1 [Manual](/doc/1.0.1/) and [API](/doc/1.0.1/api/) &#124; 1.0.0 [Manual](/doc/1.0.0/) and [API](/doc/1.0.0/api/)
 * 0.11.2 [Manual](/doc/0.11.2/) and [API](/doc/0.11.2/api/) &#124; 0.11.1 [Manual](/doc/0.11.1/) and [API](/doc/0.11.1/api/) &#124; 0.11.0 [Manual](/doc/0.11.0/) and [API](/doc/0.11.0/api/)
 
-<!--
 #### Latest Release Candidate / Milestone Builds
+
+* [3.4.0-M1](/doc/3.4.0-M1/)
+
+<!--
 
 * [3.2.0-RC1](/doc/3.2.0-RC1/)
 * [3.2.0-M2](/doc/3.2.0-M2/)
