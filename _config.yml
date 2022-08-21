@@ -3,7 +3,13 @@ description: "Scala Language-Integrated Connection Kit"
 markdown: kramdown
 
 exclude:
-- README.md
-
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 plugins:
   - jekyll-redirect-from
