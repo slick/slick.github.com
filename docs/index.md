@@ -5,59 +5,11 @@ title: Documentation
 
 ## Slick Documentation
 
-#### Releases
+* [Latest stable release](/doc/stable)
+* [Latest prerelease](/doc/prerelease)
+* [Latest on `main`](/doc/devel)
 
-Latest: [3.3.3](/doc/3.3.3/)
-
-* [3.3.3](/doc/3.3.3/) &#124; [3.3.2](/doc/3.3.2/) &#124; [3.3.1](/doc/3.3.1/) &#124; [3.3.0](/doc/3.3.0/)
-* [3.2.3](/doc/3.2.3/) &#124; [3.2.2](/doc/3.2.2/) &#124; [3.2.1](/doc/3.2.1/) &#124; [3.2.0](/doc/3.2.0/)
-* [3.1.1](/doc/3.1.1/) &#124; [3.1.0](/doc/3.1.0/)
-* [3.0.3](/doc/3.0.3/) &#124; [3.0.2](/doc/3.0.2/) &#124; [3.0.1](/doc/3.0.1/) &#124; [3.0.0](/doc/3.0.0/)
-* [2.1.0](/doc/2.1.0/)
-* [2.0.3](/doc/2.0.3/) &#124; [2.0.2](/doc/2.0.2/) &#124; [2.0.1](/doc/2.0.1/) &#124; [2.0.0](/doc/2.0.0/)
-* 1.0.1 [Manual](/doc/1.0.1/) and [API](/doc/1.0.1/api/) &#124; 1.0.0 [Manual](/doc/1.0.0/) and [API](/doc/1.0.0/api/)
-* 0.11.2 [Manual](/doc/0.11.2/) and [API](/doc/0.11.2/api/) &#124; 0.11.1 [Manual](/doc/0.11.1/) and [API](/doc/0.11.1/api/) &#124; 0.11.0 [Manual](/doc/0.11.0/) and [API](/doc/0.11.0/api/)
-
-#### Latest Release Candidate / Milestone Builds
-
-* [3.4.0-M1](/doc/3.4.0-M1/)
-
-<!--
-
-* [3.2.0-RC1](/doc/3.2.0-RC1/)
-* [3.2.0-M2](/doc/3.2.0-M2/)
-* [3.2.0-M1](/doc/3.2.0-M1/)
-
-* [Slick 3.1.0-RC3 Documentation](/doc/3.1.0-RC3/)
-* [Slick 3.1.0-RC2 Documentation](/doc/3.1.0-RC2/)
-* [Slick 3.1.0-RC1 Documentation](/doc/3.1.0-RC1/)
-* [Slick 3.1.0-M2 Documentation](/doc/3.1.0-M2/)
-* [Slick 3.1.0-M1 Documentation](/doc/3.1.0-M1/)
-
-* [Slick 2.0.2-RC1 Documentation](/doc/2.0.2-RC1/)
-* [Slick 2.0.2-RC1 Scaladoc](/doc/2.0.2-RC1/api/)
-
-* [Slick 2.1.0-M2 Documentation](/doc/2.1.0-M2/)
-* [Slick 2.1.0-M2 Scaladoc](/doc/2.1.0-M2/api/)
-
-* [Slick 2.1.0-M1 Documentation](/doc/2.1.0-M1/)
-* [Slick 2.1.0-M1 Scaladoc](/doc/2.1.0-M1/api/)
-
-* [Slick 2.0.1-RC1 Documentation](/doc/2.0.1-RC1/)
-* [Slick 2.0.1-RC1 Scaladoc](/doc/2.0.1-RC1/api/)
-
-* [Slick 2.0.2-RC1 Documentation](/doc/2.0.2-RC1/)
-* [Slick 2.0.2-RC1 Scaladoc](/doc/2.0.2-RC1/api/)
-
-* [Slick 2.1.0-RC3 Documentation](/doc/2.1.0-RC3/)
-
-* [Slick 2.1.0-RC2 Documentation](/doc/2.1.0-RC2/)
-
-* [Slick 2.1.0-RC1 Documentation](/doc/2.1.0-RC1/)
-
-* [Slick 2.0.0-RC1 Documentation](/doc/2.0.0-RC1/)
-* [Slick 2.0.0-RC1 Scaladoc](/doc/2.0.0-RC1/api/)
--->
+Other versions can be accessed from the version selector in the docs. 
 
 ## Sample Code
 
