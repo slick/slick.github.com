@@ -3,31 +3,31 @@ layout: doc
 title: Download
 ---
 
-The current stable release is Slick 3.3.3 for Scala 2.11, 2.12, and 2.13.
+The current stable release is {{ site.download.slick_version }}
+and is available for Scala {{ site.download.scala_versions | array_to_sentence_string: "and" }}.
 
-(Community help adding Scala 3 support is needed; see
-[this ticket](https://github.com/slick/slick/issues/2177).)
+The easiest way to get started is to [download](https://github.com/slick/hello-slick/archive/refs/heads/main.zip)
+the [Hello Slick sample](https://github.com/slick/hello-slick).
 
-The easiest way to get started is with a working application in [Lightbend TechHub](https://developer.lightbend.com/start/?group=slick). To learn the basics of Slick start with the Hello Slick sample. To learn how to integrate Slick with Play Framework check out the [Play Scala Intro](https://developer.lightbend.com/start/?group=slick&project=play-scala-slick-example) template.
+To include Slick in an existing project just add the dependency to your build tool.
 
-To include Slick in an existing project use the library published on 
-[Maven Central](http://search.maven.org/#search|ga|1|g%3A%22com.typesafe.slick%22).   
+For sbt projects (which includes Play Framework applications), add the following to your `libraryDependencies`:
 
-For sbt / Play Framework projects add the following to your `libraryDependencies`:
-
-    "com.typesafe.slick" %% "slick" % "3.3.3"
+    "com.typesafe.slick" %% "slick" % "{{ site.download.slick_version }}"
 
 For Maven projects add the following to your `<dependencies>`, adjusting the Scala version as appropriate:
 
     <dependency>
         <groupId>com.typesafe.slick</groupId>
-        <artifactId>slick_2.13</artifactId>
-        <version>3.3.3</version>
+        <artifactId>slick_{{ site.download.scala_versions | last }}</artifactId>
+        <version>{{ site.download.slick_version }}</version>
     </dependency>
 
-You can also download the JARs directly from
-[Maven Central](http://search.maven.org/#search|ga|1|g%3A%22com.typesafe.slick%22).
+You can find snippets for other build tools [on Scaladex][scaladex].
 
-The source code can be found [on GitHub](http://github.com/slick/slick).
-Most development is happening in the *main* branch. Releases are generally made
-from the major version branches and tagged with the version number.
+For more information please see the documentation.
+
+The code is hosted on [on GitHub](http://github.com/slick/slick).
+Development happens on the `main` branch.
+
+[scaladex]: https://index.scala-lang.org/slick/slick/artifacts/slick/{{ site.download.slick_version }}

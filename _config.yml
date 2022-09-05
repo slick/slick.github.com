@@ -2,6 +2,10 @@ title: "Slick"
 description: "Scala Language-Integrated Connection Kit"
 markdown: kramdown
 
+download:
+  slick_version: 3.4.0
+  scala_versions: [2.12, 2.13]
+
 exclude:
   - README.md
   - Gemfile
