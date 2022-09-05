@@ -1,0 +1,79 @@
+- name: Slick
+  url: https://github.com/slick/slick
+  lang: Scala
+  effect: Future
+  typed_queries: Yes, compiled to SQL at runtime
+  string_interpolator: Yes, explicitly typed outputs or typechecked against the database at compile time
+  supports: MySQL, Postgres, IBM DB2, Oracle, SQL Server, H2, HSQLDB, SQLite, Derby
+
+- name: Quill
+  url: https://getquill.io/
+  lang: Scala
+  effect: Depends on your choice out of many backends (contexts).
+  typed_queries: Yes, compiled to SQL at compile time (with exceptions)
+  string_interpolator: Yes, explicitly typed outputs. Fully composable with query DSL.
+  supports: MySQL, Postgres, SQLite, H2, SQL Server, Oracle, Cassandra, OrientDB
+
+- name: zio-sql
+  url: https://github.com/zio/zio-sql#zio-sql
+  lang: Scala
+  effect: ZIO
+  typed_queries: Yes, compiled to SQL at runtime
+  string_interpolator: No
+  supports: PostgreSQL, SQL Server, Oracle, MySQL
+
+- name: jOOQ
+  url: https://www.jooq.org/
+  lang: Java
+  effect: None (synchronous)
+  typed_queries: Yes, compiled to SQL at runtime
+  string_interpolator: No
+  supports: >
+    Aurora MySQL Edition,
+    Aurora PostgreSQL Edition,
+    Azure SQL Data Warehouse (Azure Synapse Analytics),
+    Azure SQL Database,
+    DB2 LUW,
+    Derby,
+    Firebird,
+    H2,
+    HANA,
+    HSQLDB,
+    Informix,
+    Ingres,
+    MariaDB,
+    Microsoft Access,
+    MySQL,
+    Oracle,
+    PostgreSQL,
+    Redshift,
+    SQL Server,
+    SQLite,
+    Sybase Adaptive Server Enterprise,
+    Sybase SQL Anywhere,
+    Teradata,
+    Vertica
+
+- name: Skunk
+  url: https://tpolecat.github.io/skunk/
+  lang: Scala
+  effect: Effect-polymorphic
+  typed_queries: "No"
+  string_interpolator: Yes, explicitly typed outputs.
+  supports: PostgreSQL
+
+- name: Doobie
+  url: https://tpolecat.github.io/doobie/
+  lang: Scala
+  effect: Effect-polymorphic
+  typed_queries: "No"
+  string_interpolator: Yes, explicitly typed outputs.
+  supports: All JDBC
+
+- name: Anorm
+  url: https://playframework.github.io/anorm/
+  lang: Scala
+  effect: None (synchronous)
+  typed_queries: "No"
+  string_interpolator: Yes, explicitly typed outputs.
+  supports: All JDBC

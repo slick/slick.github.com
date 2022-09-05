@@ -11,6 +11,10 @@ title: Documentation
 
 Other versions can be accessed from the version selector in the docs.
 
+## Compared to Alternatives
+
+See [the table](compare-alternatives).
+
 ## Sample Code
 
 Look at the branches / tags for specific versions.
@@ -61,7 +65,7 @@ Please add more projects to the list using a github pull request, if you think o
 
 ## Talks
 
-<table class="table-talks">
+<table class="table table-talks">
   <thead><tr><th>Date</th><th>Title</th><th>Venue</th><th>Links</th></tr></thead>
   <tbody>
     {% assign talks = site.data.talks | reverse %}
