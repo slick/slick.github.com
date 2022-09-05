@@ -17,3 +17,4 @@ exclude:
   - vendor/ruby/
 plugins:
   - jekyll-redirect-from
+  - jekyll_include_plugin

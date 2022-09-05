@@ -18,6 +18,7 @@ a:visited { color: rgba(149,73,87,1); }
 .secondary h1 a { color: #656565; }
 .secondary h1 a:hover { color: rgba(0,0,0,0.4); text-decoration: none; }
 .secondary h1 a:visited { color: #656565; }
+.secondary p { font-size: 15px; }
 
 .main-content { padding-top: 30px; padding-bottom: 30px; background: white; font-size: 14px; line-height: 18px; color: rgba(0,0,0,0.8); min-height: 800px; }
 .main-content p { font-size: 14px; line-height: 18px; color: rgba(0,0,0,0.8);}

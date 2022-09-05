@@ -3,60 +3,60 @@
 
 <!-- Main Container -->
 <div class="wrapper">
-	<div class="main">
-		<div class="container" id="tagline">
-			<div class="row">
-				<div class="span12">
-					<h1>Functional Relational Mapping for Scala</h1>
-				</div>
-			</div>
-			<div class="row">
-				<div class="span4">
-					<div class="box">
-						<img src="{{ site.baseurl }}/resources/images/orange-box.jpg">
-						<div class="textbox">Scala<p>Seamless data access for your Scala application &mdash; Write Scala code to query your database.</p></div>
-					</div>
-				</div>
-				<div class="span4">
-					<div class="box">
-						<img src="{{ site.baseurl }}/resources/images/red-box.jpg">
-						<div class="textbox">Type Safe<p>All database entities and queries are statically checked at compile-time.</p></div>
-					</div>
-				</div>
-				<div class="span4">
-					<div class="box">
-						<img src="{{ site.baseurl }}/resources/images/purple-box.jpg">
-						<div class="textbox">Composable<p>Compose query operations just as if you were using Scala's collections.</p></div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+  <div class="main">
+    <div class="container" id="tagline">
+      <div class="row">
+        <div class="span12">
+          <h1>Functional Relational Mapping for Scala</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="span4">
+          <div class="box">
+            <img src="{{ site.baseurl }}/resources/images/orange-box.jpg">
+            <div class="textbox">Scala<p>Seamless data access for your Scala application &mdash; Write Scala code to query your database.</p></div>
+          </div>
+        </div>
+        <div class="span4">
+          <div class="box">
+            <img src="{{ site.baseurl }}/resources/images/red-box.jpg">
+            <div class="textbox">Type Safe<p>All database entities and queries are statically checked at compile-time.</p></div>
+          </div>
+        </div>
+        <div class="span4">
+          <div class="box">
+            <img src="{{ site.baseurl }}/resources/images/purple-box.jpg">
+            <div class="textbox">Composable<p>Compose query operations just as if you were using Scala's collections.</p></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- Secondary Container -->
 <div class="wrapper">
-	<div class="secondary">
-		<div class="container" id="lower">
-			<div class="row">
-				<div class="span8">
-					<p>Slick is a modern database query and access library for Scala. It
-						allows you to work with stored data almost as if you were using
-						Scala collections while at the same time giving you full control
-						over when a database access happens and which data is transferred.
-						You can write your database queries in Scala instead of SQL, thus
-						profiting from the static checking, compile-time safety and
-						compositionality of Scala. Slick features an extensible query
-						compiler which can generate code for different backends.</p>
-				</div>
-				<div class="span4">
-					<h1 style="margin-top: 15px;"><a href="/news">News</a></h1>
-					{% include news-feed.html %}
-					<p><a href="/news/all-news.html">News archive</a></p>
-				</div>
-			</div>
-		</div>
-	</div>
+  <div class="secondary">
+    <div class="container" id="lower">
+      <div class="row">
+        <div class="span8">
+
+          {% capture readme %}
+            {% include_file "https://raw.githubusercontent.com/slick/slick/main/README.md"
+                  snippet="include-in-website" %}
+          {% endcapture %}
+
+          <div>{{ readme | remove_first: "..." | markdownify }}</div>
+
+        </div>
+        <div class="span4">
+          <h1 style="margin-top: 15px;"><a href="/news">News</a></h1>
+          {% include news-feed.html %}
+          <p><a href="/news/all-news.html">News archive</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- Footer -->
