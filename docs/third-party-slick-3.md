@@ -46,8 +46,6 @@ The course description page contains a free recording created for the hands-on w
 
 - [Using shapeless's HList](https://github.com/underscoreio/slickless) - The [shapeless](https://github.com/milessabin/shapeless) library includes an alternative to the built-in Slick HList implementation. A Slick "shape" for the shapeless HList is provide by [slickless](https://github.com/underscoreio/slickless), meaning you can use shapeless's HList in your Slick table definitions.
 
-- [Flexible updates](https://github.com/scalax/hf)
-
 ## Example projects
 
 - [Template Site](https://template-site.tetrao.eu/) ( [GitHub](https://github.com/tetrao-eu/template-site) ) - Skeleton of a web application based on Scala, SBT, Play Framework, Play2-auth, PostgreSQL, Slick, Slick-pg and Foundation
