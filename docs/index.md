@@ -59,6 +59,8 @@ Please add more projects to the list using a github pull request, if you think o
 - [Generic DAO for Slick projects](https://github.com/rcavalcanti/slick-dao) - Slick extensions for record lifecycle
   management.
 
+- [Slick DuckDB extension](https://github.com/Algebrazebra/slick-duckdb) - Slick extension for DuckDB
+
 ## Screencasts
 
 * [Screencast 1: Introduction to the query compiler](http://youtu.be/THlvR9bXHIc) (Stefan Zeiger, 2013-01-16)
