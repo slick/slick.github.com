@@ -1,0 +1,15 @@
+queue_rules:
+  - name: default
+    merge_conditions:
+      - check-success = build
+    # Semi-linear history: rebase the PR onto main, then merge it with a merge commit
+    update_method: rebase
+    merge_method: merge
+
+pull_request_rules:
+  - name: Queue Renovate pull requests
+    conditions:
+      - author = renovate[bot]
+    actions:
+      queue:
+        name: default
