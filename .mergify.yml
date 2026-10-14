@@ -11,6 +11,9 @@ queue_rules:
       - check-success = build
     # Semi-linear history: rebase the PR onto main, then merge it with a merge commit
     update_method: rebase
+    # GitHub only lets Mergify update a pull request created by another GitHub App
+    # (Renovate) by impersonating a user
+    update_bot_account: nafg
     merge_method: merge
 
 pull_request_rules:
