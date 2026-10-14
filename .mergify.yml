@@ -1,6 +1,13 @@
+# The queue must check pull requests in place (on the pull request itself) for
+# update_method to apply; otherwise Mergify tests a draft pull request and merges
+# the original un-rebased. In-place checks require max_parallel_checks: 1 and
+# the CI condition in queue_conditions, with no separate merge_conditions.
+merge_queue:
+  max_parallel_checks: 1
+
 queue_rules:
   - name: default
-    merge_conditions:
+    queue_conditions:
       - check-success = build
     # Semi-linear history: rebase the PR onto main, then merge it with a merge commit
     update_method: rebase
