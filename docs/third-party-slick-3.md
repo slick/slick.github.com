@@ -39,9 +39,10 @@ The course description page contains a free recording created for the hands-on w
 
 ## Libraries and sbt plugins
 - [blocking-slick ](https://github.com/takezoe/blocking-slick) Provides Slick2 compatible blocking API for Slick3.
-
-- [Slick Code Generation SBT Plugin](https://github.com/muuki88/sbt-slick) - This plugin allows you to easily generate slick Table schemas. Take a look at the test-project for example configurations.
-
+- [sbt-sliquibase](https://codeberg.org/PerformantData/sbt-sliquibase)
+  Sbt plugin that generates, from a Liquibase changelog,
+  database server-specific [schema code](https://scala-slick.org/doc/3.6.1/code-generation.html).
+  Includes a code generator that creates custom identifier datatypes for surrogate keys.
 - [Slick cats](https://github.com/RMSone/slick-cats) Many cats type class instances for Slick's DBIO.
 
 - [Using shapeless's HList](https://github.com/underscoreio/slickless) - The [shapeless](https://github.com/milessabin/shapeless) library includes an alternative to the built-in Slick HList implementation. A Slick "shape" for the shapeless HList is provide by [slickless](https://github.com/underscoreio/slickless), meaning you can use shapeless's HList in your Slick table definitions.
