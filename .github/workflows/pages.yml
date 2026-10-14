@@ -36,7 +36,7 @@ jobs:
       pages: read # configure-pages reads the site's Pages settings
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1.329.0
         with:
