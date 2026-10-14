@@ -11,24 +11,29 @@ on:
   push:
     branches: ["main"]
 
+  # Builds (without deploying) pull requests, whatever their base branch
+  pull_request:
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+# Read-only by default; only the deploy job gets permissions to deploy to GitHub Pages
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
-# Allow one concurrent deployment
+# Allow one concurrent run per ref, so a pull request build can't cancel an
+# in-progress deployment of main.
 concurrency:
-  group: "pages"
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read # configure-pages reads the site's Pages settings
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -52,6 +57,10 @@ jobs:
 
   # Deployment job
   deploy:
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
